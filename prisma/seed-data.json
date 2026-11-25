@@ -1,0 +1,2520 @@
+{
+  "pages": [
+    {
+      "id": "page-home",
+      "slug": "home",
+      "title": "Home",
+      "metaTitle": "Energy Innovation Centre (EIC) | Ganpat University",
+      "metaDescription": "Pioneering clean energy, electric mobility, renewable energy sources, and smart microgrids at Ganpat University - Energy Innovation Centre (EIC).",
+      "sections": [
+        {
+          "id": "home-hero",
+          "data": {
+            "title": "Energy Innovation Centre",
+            "bgImage": "/uploads/2021/07/lightbulb-renewable-energy.jpg",
+            "tagline": "Centre of Excellence \u2014 Ganpat University",
+            "subtitle": "Energy is Next Generation Of Life",
+            "heroStats": [
+              {
+                "icon": "Award",
+                "label": "National & Global Awards",
+                "value": "15+"
+              },
+              {
+                "icon": "BookOpen",
+                "label": "UG & PG Programs",
+                "value": "68"
+              },
+              {
+                "icon": "Users",
+                "label": "Expert Faculties",
+                "value": "700+"
+              },
+              {
+                "icon": "GraduationCap",
+                "label": "Graduated Students",
+                "value": "25,000+"
+              }
+            ],
+            "primaryCTA": {
+              "url": "/renewable-energy",
+              "label": "Explore Focus Areas"
+            },
+            "description": "Pioneering clean energy, electric mobility, renewable energy sources, and smart microgrids at Ganpat University - Energy Innovation Centre (EIC).",
+            "secondaryCTA": {
+              "url": "/about-us",
+              "label": "About EIC"
+            }
+          },
+          "type": "hero"
+        },
+        {
+          "id": "home-landing-content",
+          "data": {
+            "body": "<meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title></title>\n<link href=\"https://fonts.googleapis.com\" rel=\"preconnect\" />\n<link crossorigin=\"\" href=\"https://fonts.gstatic.com\" rel=\"preconnect\" />\n<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&amp;family=Inter:wght@400;500;600&amp;display=swap\" rel=\"stylesheet\" /><!-- =========================================================\n     SECTION 1 \u2014 About the University\n     ========================================================= -->\n<style type=\"text/css\">.au-about, .au-about *, .au-about *::before, .au-about *::after { box-sizing: border-box; }\n.au-about {\n  --au-blue:#086AD8; --au-navy:#0e2b3d; --au-ink:#55606b; --au-gold:#086AD8; --au-line:#e7e7e7;\n  font-family: 'Inter', sans-serif;\n  background-color: #ffffff;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n  overflow: hidden;\n}\n.au-about .au-container { max-width: 75rem; margin: 0 auto; }\n.au-about .au-grid { display: grid; grid-template-columns: 1fr; gap: clamp(2.5rem, 6vw, 4rem); align-items: center; }\n@media (min-width: 62rem) { .au-about .au-grid { grid-template-columns: 1fr 1fr; } }\n\n/* ---- Image collage (matches .about-area .thumb) ---- */\n.au-about .au-thumb { position: relative; margin-bottom: 1.5rem; }\n@media (min-width: 62rem) { .au-about .au-thumb { margin-bottom: 0; } }\n.au-about .au-thumb img { border-radius: 0.5rem; display: block; }\n.au-about .au-img-main { width: 80%; }\n.au-about .au-img-second {\n  position: relative; left: 20%; width: 80%; top: -5rem; margin-bottom: -5rem;\n  box-shadow: 0 0 0.6rem rgba(0,0,0,0.18); padding: 0.3rem; background-color: #ffffff;\n}\n@media (max-width: 61.9rem) {\n  .au-about .au-img-second { display: none; }\n  .au-about .au-img-main { width: 100%; }\n}\n.au-about .au-overlay {\n  position: absolute; right: 0; top: 50%; height: 15.5rem; width: 15.5rem;\n  text-align: center; background-color: #ffffff; transform: translate(3.2rem, -50%);\n  border-radius: 0.5rem; box-shadow: 0 0 0.6rem rgba(0,0,0,0.18); z-index: 2;\n}\n@media (max-width: 74.9rem) and (min-width: 62rem) { .au-about .au-overlay { transform: translate(1rem, -50%); } }\n@media (max-width: 61.9rem) { .au-about .au-overlay { display: none; } }\n.au-about .au-overlay-content { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 100%; padding: 0 1.5rem; }\n.au-about .au-overlay-content .au-overlay-title { margin: 0; font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 1.15rem; line-height: 1.4; color: var(--au-navy); text-transform: capitalize; }\n\n/* ---- Info column ---- */\n.au-about .au-info { position: relative; z-index: 1; }\n.au-about .au-eyebrow {\n  display: inline-flex; align-items: center; gap: 0.6rem;\n  font-family: 'Poppins', sans-serif; font-size: 0.8rem; font-weight: 600;\n  letter-spacing: 0.02em; text-transform: uppercase; color: var(--au-blue); margin-bottom: 1rem;\n}\n.au-about .au-eyebrow::before { content: \"\"; width: 1.6rem; height: 2px; background-color: var(--au-blue); display: inline-block; }\n.au-about .au-title { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--au-navy); font-size: clamp(1.6rem, 3.2vw, 2.2rem); line-height: 1.3; margin: 0 0 1.5rem; }\n.au-about .au-text { color: var(--au-ink); font-size: 1rem; line-height: 1.8; margin: 0; }\n.au-about .au-memberships { list-style: none; margin: 1.875rem 0 0; padding: 0; }\n.au-about .au-memberships li { display: flex; margin-top: 1.875rem; }\n.au-about .au-memberships li:first-child { margin-top: 0; }\n.au-about .au-mem-icon { flex: none; font-size: 3.75rem; line-height: 1; margin-right: 1.5rem; color: var(--au-blue); }\n.au-about .au-mem-icon svg { width: 1em; height: 1em; display: block; }\n.au-about .au-mem-title { display: block; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 1.125rem; color: var(--au-navy); margin: 0 0 0.4rem; }\n.au-about .au-mem-text { color: var(--au-ink); font-size: 0.95rem; line-height: 1.6; margin: 0; }\n.au-about .au-author { display: flex; align-items: center; margin-top: 1.875rem; }\n.au-about .au-signature { border-right: 1px solid var(--au-line); padding-right: 1.25rem; margin-right: 1.25rem; flex: none; }\n.au-about .au-signature img { height: 6.25rem; width: auto; display: block; }\n.au-about .au-intro-name { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--au-navy); font-size: 1rem; margin: 0 0 0.4rem; }\n.au-about .au-intro span { color: var(--au-ink); font-size: 0.9rem; }\n</style>\n<div class=\"au-about\" id=\"about-university\">\n<div class=\"au-container\">\n<div class=\"au-grid\">\n<div class=\"au-thumb\"><!-- Image URL: /uploads/shri-ganpatbhai-patel2-1787220919108.jpg --><img alt=\"Shri Ganpatbhai Patel, Patron-in-Chief and President, Ganpat University\" class=\"au-img-main\" decoding=\"async\" src=\"/uploads/shri-ganpatbhai-patel2-1787220919108.jpg\" /> <!-- Image URL: /uploads/ganpat-uni-1787220917342.png --> <img alt=\"Ganpat University campus entrance\" class=\"au-img-second\" decoding=\"async\" src=\"/uploads/ganpat-uni-1787220917342.png\" />\n<div class=\"au-overlay\">\n<div class=\"au-overlay-content\">\n<div class=\"au-overlay-title\">16 years of Excellence</div>\n</div>\n</div>\n</div>\n\n<div class=\"au-info\">\n<div class=\"au-eyebrow\">About the University</div>\n\n<div class=\"au-title\">GANPAT UNIVERSITY -A Destination Of Smart Education</div>\n\n<p class=\"au-text\">Ganpat University and the township of Ganpat Vidyanagar, a high-tech education campus is a joint initiative, purely philanthropic in nature, by a large number of industrialists and technocrats, noble farmers and affluent businessmen for the mission of &ldquo;Social Upliftment through Education&rdquo;.</p>\n\n<ul class=\"au-memberships\">\n\t<li>\n\t<div class=\"au-mem-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.6\" viewbox=\"0 0 24 24\"><circle cx=\"12\" cy=\"8\" r=\"4\"></circle><path d=\"M8.5 12.5 6 21l6-3 6 3-2.5-8.5\"></path></svg></div>\n\n\t<div class=\"au-mem-info\">\n\t<div class=\"au-mem-title\">AIU Membership</div>\n\n\t<p class=\"au-mem-text\">Permanent Membership of Association of Indian Universities (AIU)</p>\n\t</div>\n\t</li>\n\t<li>\n\t<div class=\"au-mem-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.6\" viewbox=\"0 0 24 24\"><path d=\"M12 2 3 6l9 4 9-4-9-4Z\"></path><path d=\"M3 6v6c0 3 4 6 9 6s9-3 9-6V6\"></path></svg></div>\n\n\t<div class=\"au-mem-info\">\n\t<div class=\"au-mem-title\">IAU Membership</div>\n\n\t<p class=\"au-mem-text\">Membership from Association of Commonwealth Universities (ACU), UK and International Association of Universities (IAU), France.</p>\n\t</div>\n\t</li>\n</ul>\n\n<div class=\"au-author\">\n<div class=\"au-signature\"><!-- Image URL: /uploads/1577900788836-1787215412979.png --><img alt=\"signature\" decoding=\"async\" src=\"/uploads/1577900788836-1787215412979.png\" /></div>\n\n<div class=\"au-intro\">\n<div class=\"au-intro-name\">Shri. Ganpatbhai Patel</div>\n<span>Patron-in-Chief &amp; President</span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 2 \u2014 News / Updates\n     ========================================================= -->\n<style type=\"text/css\">.nw-news, .nw-news *, .nw-news *::before, .nw-news *::after { box-sizing: border-box; }\n.nw-news {\n  --nw-blue:#086AD8; --nw-navy:#0e2b3d; --nw-ink:#55606b; --nw-gold:#d99a2b; --nw-line:#e3e8f0;\n  font-family: 'Inter', sans-serif;\n  background-color: #ffffff;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.nw-news .nw-container { max-width: 75rem; margin: 0 auto; }\n.nw-news .nw-head { text-align: center; max-width: 36rem; margin: 0 auto 2.75rem; }\n.nw-news .nw-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--nw-gold); margin-bottom: 0.6rem; }\n.nw-news .nw-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--nw-navy); font-size: clamp(1.5rem, 3vw, 2.1rem); }\n.nw-news .nw-grid { display: grid; grid-template-columns: 1fr; gap: 1.75rem; }\n@media (min-width: 48rem) { .nw-news .nw-grid { grid-template-columns: repeat(3, 1fr); } }\n.nw-news .nw-card { border: 1px solid var(--nw-line); border-radius: 0.85rem; overflow: hidden; background-color: #fff; transition: transform 0.2s ease, box-shadow 0.2s ease; }\n.nw-news .nw-card:hover { transform: translateY(-0.3rem); box-shadow: 0 1.25rem 2.5rem -1rem rgba(14,43,61,0.18); }\n.nw-news .nw-thumb { display: block; aspect-ratio: 16/11; overflow: hidden; background-color: var(--nw-line); }\n.nw-news .nw-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }\n.nw-news .nw-card-body { padding: 1.35rem 1.4rem 1.5rem; }\n.nw-news .nw-date { font-size: 0.78rem; font-weight: 600; color: var(--nw-blue); letter-spacing: 0.03em; text-transform: uppercase; margin-bottom: 0.6rem; display: block; }\n.nw-news .nw-card-title { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--nw-navy); font-size: 1.02rem; line-height: 1.4; margin-bottom: 0.5rem; }\n.nw-news .nw-card-title a { color: inherit; text-decoration: none; }\n.nw-news .nw-card-title a:hover { color: var(--nw-blue); }\n.nw-news .nw-excerpt { color: var(--nw-ink); font-size: 0.88rem; margin-bottom: 0.85rem; }\n.nw-news .nw-readmore { font-size: 0.85rem; font-weight: 600; color: var(--nw-blue); text-decoration: none; }\n.nw-news .nw-readmore:hover { text-decoration: underline; }\n.nw-news .nw-footer { text-align: center; margin-top: 2.75rem; }\n.nw-news .nw-btn { display: inline-block; background-color: var(--nw-blue); color: #fff; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.9rem; padding: 0.8rem 2rem; border-radius: 2rem; text-decoration: none; }\n.nw-news .nw-btn:hover { background-color: #06519f; }\n</style>\n<div class=\"nw-news\" id=\"news-updates\">\n<div class=\"nw-container\">\n<div class=\"nw-head\">\n<div class=\"nw-eyebrow\">News</div>\n\n<div class=\"nw-title\">Updates from GNU</div>\n</div>\n\n<div class=\"nw-grid\">\n<div class=\"nw-card\"><a class=\"nw-thumb\" href=\"/news\"><img alt=\"Ganpat University selected for Clean Energy & Innovation research\" loading=\"lazy\" src=\"/uploads/2021/06/2-511x400.jpg\" /> </a>\n\n<div class=\"nw-card-body\"><span class=\"nw-date\">June 10, 2021</span>\n\n<div class=\"nw-card-title\"><a href=\"/news\">Ganpat University selected for advanced Clean Energy research tie-ups with CalPoly Pomona, USA</a></div>\n<a class=\"nw-readmore\" href=\"/news\">Read More &rarr;</a></div>\n</div>\n\n<div class=\"nw-card\"><a class=\"nw-thumb\" href=\"/news\"><img alt=\"Ganpat University to introduce new Renewable Energy & Electric Vehicle courses\" loading=\"lazy\" src=\"/uploads/2021/06/Sandesh-Ahmedabad-17-March-2021-451x400.jpg\" /> </a>\n\n<div class=\"nw-card-body\"><span class=\"nw-date\">June 10, 2021</span>\n\n<div class=\"nw-card-title\"><a href=\"/news\">Ganpat University will introduce new courses related to Renewable Energy & Electric Vehicle Engineering</a></div>\n\n<p class=\"nw-excerpt\">Sandesh News Paper, Ahmedabad &mdash; 17.03.2021</p>\n<a class=\"nw-readmore\" href=\"/news\">Read More &rarr;</a></div>\n</div>\n\n<div class=\"nw-card\"><a class=\"nw-thumb\" href=\"/news\"><img alt=\"Ganpat University allocated experimental spectrum for smart microgrid & energy monitoring\" loading=\"lazy\" src=\"/uploads/2021/06/Divyabhaskar-Mehsana_17_03_2021-512x400.jpg\" /> </a>\n\n<div class=\"nw-card-body\"><span class=\"nw-date\">June 10, 2021</span>\n\n<div class=\"nw-card-title\"><a href=\"/news\">Ganpat University is allocated experimental spectrum for smart microgrid, EV testing and energy research</a></div>\n\n<p class=\"nw-excerpt\">Divyabhaskar, Mehsana &mdash; 16.03.2021</p>\n<a class=\"nw-readmore\" href=\"/news\">Read More &rarr;</a></div>\n</div>\n</div>\n\n<div class=\"nw-footer\"><a class=\"nw-btn\" href=\"/news\">View All News</a></div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 3 \u2014 Why Choose Us\n     ========================================================= -->\n<style type=\"text/css\">.wcu-features, .wcu-features *, .wcu-features *::before, .wcu-features *::after { box-sizing: border-box; }\n.wcu-features {\n  --wcu-blue:#086AD8; --wcu-navy:#0e2b3d; --wcu-ink:#55606b; --wcu-gold:#d99a2b;\n  font-family: 'Inter', sans-serif;\n  background-color: #f5f8fc;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.wcu-features .wcu-container { max-width: 75rem; margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }\n@media (min-width: 60rem) { .wcu-features .wcu-container { grid-template-columns: 0.95fr 1.05fr; } }\n.wcu-features .wcu-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--wcu-gold); margin-bottom: 0.6rem; }\n.wcu-features .wcu-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--wcu-navy); font-size: clamp(1.5rem, 3.2vw, 2.15rem); line-height: 1.25; margin-bottom: 1rem; }\n.wcu-features .wcu-text { color: var(--wcu-ink); line-height: 1.75; margin-bottom: 1.5rem; }\n.wcu-features .wcu-video { display: inline-flex; align-items: center; gap: 0.75rem; text-decoration: none; color: var(--wcu-navy); font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.92rem; }\n.wcu-features .wcu-play { width: 2.75rem; height: 2.75rem; border-radius: 50%; background-color: var(--wcu-blue); color: #fff; display: flex; align-items: center; justify-content: center; flex: none; transition: transform 0.2s ease; }\n.wcu-features .wcu-video:hover .wcu-play { transform: scale(1.08); }\n.wcu-features .wcu-play svg { width: 1.1rem; height: 1.1rem; }\n.wcu-features .wcu-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }\n.wcu-features .wcu-item { background-color: #fff; border-radius: 0.85rem; padding: 1.5rem 1.35rem; text-align: center; box-shadow: 0 0.6rem 1.75rem -0.8rem rgba(14,43,61,0.18); }\n.wcu-features .wcu-item-icon { width: 3rem; height: 3rem; margin: 0 auto 0.9rem; border-radius: 0.65rem; background-color: #eaf2fd; color: var(--wcu-blue); display: flex; align-items: center; justify-content: center; }\n.wcu-features .wcu-item-icon svg { width: 1.5rem; height: 1.5rem; }\n.wcu-features .wcu-item-title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.95rem; margin-bottom: 0.4rem; }\n.wcu-features .wcu-item-title a { color: var(--wcu-navy); text-decoration: none; }\n.wcu-features .wcu-item-title a:hover { color: var(--wcu-blue); }\n.wcu-features .wcu-item-text { color: var(--wcu-ink); font-size: 0.85rem; line-height: 1.5; margin: 0; }\n</style>\n<div class=\"wcu-features\" id=\"why-choose-us\">\n<div class=\"wcu-container\">\n<div>\n<div class=\"wcu-eyebrow\">Why Choose Us</div>\n\n<div class=\"wcu-title\">Ultimate Destination for Clean Energy & Microgrid Research</div>\n\n<p class=\"wcu-text\">Ganpat University offers various unique, quality, industry-linked and sector-focused Diploma, Undergraduate, Postgraduate and Research level programs (professional and non-professional) in the fields of Engineering, Management, Computer Applications, Pharmacy, Sciences, Commerce &amp; Social Science, Architecture, Design &amp; Planning, Maritime Studies and Law.</p>\n<a class=\"wcu-video\" href=\"https://www.youtube.com/watch?v=OsoXEo1wpYI\" rel=\"noopener\" target=\"_blank\"><span class=\"wcu-play\"><svg fill=\"currentColor\" viewbox=\"0 0 24 24\"><path d=\"M8 5v14l11-7z\"></path></svg></span> Video Showcase </a></div>\n\n<div class=\"wcu-grid\">\n<div class=\"wcu-item\">\n<div class=\"wcu-item-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><path d=\"M9 3v5L4 18a2 2 0 0 0 1.8 3h12.4a2 2 0 0 0 1.8-3L15 8V3\"></path><path d=\"M9 3h6\"></path><path d=\"M7.5 14h9\"></path></svg></div>\n\n<div class=\"wcu-item-title\"><a href=\"/research-area\">Research Work</a></div>\n\n<p class=\"wcu-item-text\">A great platform for smart research work.</p>\n</div>\n\n<div class=\"wcu-item\">\n<div class=\"wcu-item-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"2.2\"></circle><path d=\"M6.5 6.5a8 8 0 0 0 0 11M17.5 6.5a8 8 0 0 1 0 11M3.5 3.5a12.5 12.5 0 0 0 0 17M20.5 3.5a12.5 12.5 0 0 1 0 17\"></path></svg></div>\n\n<div class=\"wcu-item-title\"><a href=\"/testing\">Realtime Testing</a></div>\n\n<p class=\"wcu-item-text\">Perform real-time instrument testing in workshops.</p>\n</div>\n\n<div class=\"wcu-item\">\n<div class=\"wcu-item-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"9\"></circle><path d=\"M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18\"></path></svg></div>\n\n<div class=\"wcu-item-title\"><a href=\"/expression-of-interest-einfochips\">Global Presence</a></div>\n\n<p class=\"wcu-item-text\">Providing worldwide availability for research scholars.</p>\n</div>\n\n<div class=\"wcu-item\">\n<div class=\"wcu-item-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><circle cx=\"12\" cy=\"8\" r=\"4\"></circle><path d=\"M8.5 12.5 6 21l6-3 6 3-2.5-8.5\"></path></svg></div>\n\n<div class=\"wcu-item-title\"><a href=\"/antenna-design-and-measurement\">Course Certification</a></div>\n\n<p class=\"wcu-item-text\">Get an industry-approved training certificate for research.</p>\n</div>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 4 \u2014 How We Work\n     ========================================================= -->\n<style type=\"text/css\">.hww-process, .hww-process *, .hww-process *::before, .hww-process *::after { box-sizing: border-box; }\n.hww-process {\n  --hww-blue:#086AD8; --hww-navy:#0e2b3d; --hww-ink:#55606b; --hww-gold:#d99a2b; --hww-line:#e3e8f0;\n  font-family: 'Inter', sans-serif;\n  background-color: #ffffff;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.hww-process .hww-container { max-width: 75rem; margin: 0 auto; }\n.hww-process .hww-head { text-align: center; max-width: 34rem; margin: 0 auto 3rem; }\n.hww-process .hww-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--hww-gold); margin-bottom: 0.6rem; }\n.hww-process .hww-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--hww-navy); font-size: clamp(1.5rem, 3vw, 2.1rem); }\n.hww-process .hww-grid { display: grid; grid-template-columns: 1fr; gap: 1.75rem 1.5rem; position: relative; }\n@media (min-width: 60rem) { .hww-process .hww-grid { grid-template-columns: repeat(4, 1fr); } }\n@media (min-width: 60rem) {\n  .hww-process .hww-grid::before { content: \"\"; position: absolute; top: 1.6rem; left: 12%; right: 12%; height: 1px; background-image: linear-gradient(to right, var(--hww-line) 60%, transparent 0%); background-size: 0.6rem 1px; background-repeat: repeat-x; z-index: 0; }\n}\n.hww-process .hww-step { position: relative; z-index: 1; text-align: center; }\n.hww-process .hww-num {\n  width: 3.25rem; height: 3.25rem; margin: 0 auto 1.1rem; border-radius: 50%;\n  background-color: var(--hww-blue); background: linear-gradient(135deg, var(--hww-blue), #06519f);\n  color: #fff; display: flex; align-items: center; justify-content: center;\n  font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 1rem;\n  box-shadow: 0 0 0 6px #f5f8fc;\n}\n.hww-process .hww-step-title { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--hww-navy); font-size: 1rem; margin-bottom: 0.5rem; }\n.hww-process .hww-step-text { color: var(--hww-ink); font-size: 0.88rem; line-height: 1.6; max-width: 15rem; margin: 0 auto; }\n</style>\n<div class=\"hww-process\" id=\"how-we-work\">\n<div class=\"hww-container\">\n<div class=\"hww-head\">\n<div class=\"hww-eyebrow\">Process</div>\n\n<div class=\"hww-title\">How We Work</div>\n</div>\n\n<div class=\"hww-grid\">\n<div class=\"hww-step\">\n<div class=\"hww-num\">01</div>\n\n<div class=\"hww-step-title\">Collaborations</div>\n\n<p class=\"hww-step-text\">Partnering with industry and research bodies to shape joint sustainable energy initiatives.</p>\n</div>\n\n<div class=\"hww-step\">\n<div class=\"hww-num\">02</div>\n\n<div class=\"hww-step-title\">Seminars &amp; Workshops</div>\n\n<p class=\"hww-step-text\">Hands-on sessions that bring scholars, faculty and experts together.</p>\n</div>\n\n<div class=\"hww-step\">\n<div class=\"hww-num\">03</div>\n\n<div class=\"hww-step-title\">Research Work</div>\n\n<p class=\"hww-step-text\">Focused study and experimentation across Renewable Energy, Electric Vehicles, and Microgrid technologies.</p>\n</div>\n\n<div class=\"hww-step\">\n<div class=\"hww-num\">04</div>\n\n<div class=\"hww-step-title\">Industry Outcomes</div>\n\n<p class=\"hww-step-text\">Translating research into real, deployable industry results.</p>\n</div>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 5 \u2014 Research Scholars / Portfolio\n     ========================================================= -->\n<style type=\"text/css\">.rs-portfolio, .rs-portfolio *, .rs-portfolio *::before, .rs-portfolio *::after { box-sizing: border-box; }\n.rs-portfolio {\n  --rs-blue:#086AD8; --rs-navy:#0e2b3d; --rs-ink:#55606b; --rs-gold:#d99a2b;\n  font-family: 'Inter', sans-serif;\n  background-color: #0e2b3d;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.rs-portfolio .rs-container { max-width: 75rem; margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 2.5rem; align-items: center; }\n@media (min-width: 60rem) { .rs-portfolio .rs-container { grid-template-columns: 1fr 0.9fr; } }\n.rs-portfolio .rs-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--rs-gold); margin-bottom: 0.6rem; }\n.rs-portfolio .rs-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: #fff; font-size: clamp(1.5rem, 3.2vw, 2.15rem); line-height: 1.25; margin-bottom: 1rem; }\n.rs-portfolio .rs-text { color: #c7d2db; line-height: 1.75; margin-bottom: 1.4rem; }\n.rs-portfolio .rs-list { list-style: none; margin: 0 0 1.75rem; padding: 0; display: grid; gap: 0.65rem; }\n.rs-portfolio .rs-list li { display: flex; align-items: center; gap: 0.6rem; color: #fff; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.95rem; }\n.rs-portfolio .rs-list li svg { width: 1.1rem; height: 1.1rem; color: var(--rs-gold); flex: none; }\n.rs-portfolio .rs-btn { display: inline-block; background-color: var(--rs-blue); color: #fff; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.9rem; padding: 0.8rem 2rem; border-radius: 2rem; text-decoration: none; }\n.rs-portfolio .rs-btn:hover { background-color: #06519f; }\n.rs-portfolio .rs-media { position: relative; max-width: 24rem; margin: 0 auto; }\n.rs-portfolio .rs-media img { width: 100%; border-radius: 0.75rem; display: block; }\n.rs-portfolio .rs-stat {\n  position: absolute; right: -1rem; bottom: -1.25rem; background-color: #fff; border-radius: 0.75rem;\n  padding: 1.1rem 1.4rem; text-align: center; box-shadow: 0 1.25rem 2.5rem -1rem rgba(0,0,0,0.35);\n}\n.rs-portfolio .rs-stat-num { font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 1.9rem; color: var(--rs-blue); line-height: 1; }\n.rs-portfolio .rs-stat-label { font-size: 0.78rem; color: var(--rs-ink); font-weight: 600; margin-top: 0.2rem; }\n</style>\n<div class=\"rs-portfolio\" id=\"research-scholars\">\n<div class=\"rs-container\">\n<div>\n<div class=\"rs-eyebrow\">Our Portfolio</div>\n\n<div class=\"rs-title\">Trusted by 5,000+ Research Scholars</div>\n\n<p class=\"rs-text\">We are always happy to connect with more industry experts to collaborate with Ganpat University. In this way, we can provide excellent training and research facilities to scholars who join us &mdash; and we welcome every piece of feedback that helps us improve our programs.</p>\n\n<ul class=\"rs-list\">\n\t<li><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.2\" viewbox=\"0 0 24 24\"><path d=\"M20 6 9 17l-5-5\"></path></svg> 100% Research Satisfaction</li>\n\t<li><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.2\" viewbox=\"0 0 24 24\"><path d=\"M20 6 9 17l-5-5\"></path></svg> World Class Facilities</li>\n</ul>\n<a class=\"rs-btn\" href=\"/news\">Completed Seminars</a></div>\n\n<div class=\"rs-media\"><img alt=\"Research scholars at Ganpat University\" src=\"/uploads/3-1787220891757.jpg\" />\n<div class=\"rs-stat\">\n<div class=\"rs-stat-num\">125+</div>\n\n<div class=\"rs-stat-label\">Completed Seminars</div>\n</div>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 6 \u2014 What We Do\n     ========================================================= -->\n<style type=\"text/css\">.wwd-services, .wwd-services *, .wwd-services *::before, .wwd-services *::after { box-sizing: border-box; }\n.wwd-services {\n  --wwd-blue:#086AD8; --wwd-navy:#0e2b3d; --wwd-ink:#55606b; --wwd-gold:#d99a2b; --wwd-line:#e3e8f0;\n  font-family: 'Inter', sans-serif;\n  background-color: #f5f8fc;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.wwd-services .wwd-container { max-width: 75rem; margin: 0 auto; }\n.wwd-services .wwd-head { text-align: center; max-width: 34rem; margin: 0 auto 3rem; }\n.wwd-services .wwd-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--wwd-gold); margin-bottom: 0.6rem; }\n.wwd-services .wwd-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--wwd-navy); font-size: clamp(1.5rem, 3vw, 2.1rem); }\n.wwd-services .wwd-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }\n@media (min-width: 48rem) { .wwd-services .wwd-grid { grid-template-columns: repeat(3, 1fr); } }\n.wwd-services .wwd-card { background-color: #fff; border: 1px solid var(--wwd-line); border-radius: 0.85rem; padding: 2rem 1.6rem; text-align: center; transition: box-shadow 0.2s ease, transform 0.2s ease; }\n.wwd-services .wwd-card:hover { transform: translateY(-0.25rem); box-shadow: 0 1.25rem 2.5rem -1rem rgba(14,43,61,0.18); }\n.wwd-services .wwd-card-icon { width: 3.25rem; height: 3.25rem; margin: 0 auto 1rem; border-radius: 0.7rem; background-color: #eaf2fd; color: var(--wwd-blue); display: flex; align-items: center; justify-content: center; }\n.wwd-services .wwd-card-icon svg { width: 1.6rem; height: 1.6rem; }\n.wwd-services .wwd-card-title { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--wwd-navy); font-size: 1.05rem; margin-bottom: 0.6rem; }\n.wwd-services .wwd-card-text { color: var(--wwd-ink); font-size: 0.9rem; line-height: 1.65; margin-bottom: 1.1rem; }\n.wwd-services .wwd-card-link { font-size: 0.85rem; font-weight: 600; color: var(--wwd-blue); text-decoration: none; }\n.wwd-services .wwd-card-link:hover { text-decoration: underline; }\n</style>\n<div class=\"wwd-services\" id=\"what-we-do\">\n<div class=\"wwd-container\">\n<div class=\"wwd-head\">\n<div class=\"wwd-eyebrow\">Research</div>\n\n<div class=\"wwd-title\">What We Do</div>\n</div>\n\n<div class=\"wwd-grid\">\n<div class=\"wwd-card\">\n<div class=\"wwd-card-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><circle cx=\"11\" cy=\"11\" r=\"7\"></circle><path d=\"m21 21-4.3-4.3\"></path></svg></div>\n\n<div class=\"wwd-card-title\">Research Area</div>\n\n<p class=\"wwd-card-text\">Currently we are carrying out extensive research and analysis in the domain of Renewable Energy & Microgrids to meet the upcoming clean power demands of internet, data and communication.</p>\n<a class=\"wwd-card-link\" href=\"/research-area\">Read More &rarr;</a></div>\n\n<div class=\"wwd-card\">\n<div class=\"wwd-card-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><path d=\"M17 20h5v-1a4 4 0 0 0-4-4h-1M9 20H4v-1a4 4 0 0 1 4-4h1m2-3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm6 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z\"></path></svg></div>\n\n<div class=\"wwd-card-title\">Collaborations</div>\n\n<p class=\"wwd-card-text\">We believe in collaborating with growing organizations and industries to achieve excellent outcomes in our research work.</p>\n<a class=\"wwd-card-link\" href=\"https://opennetworking.org/member-listing/\">Read More &rarr;</a></div>\n\n<div class=\"wwd-card\">\n<div class=\"wwd-card-icon\"><svg fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\" viewbox=\"0 0 24 24\"><path d=\"M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6l-8-3Z\"></path><path d=\"m9.2 12 1.9 1.9 3.7-3.9\"></path></svg></div>\n\n<div class=\"wwd-card-title\">Testing</div>\n\n<p class=\"wwd-card-text\">GUNI-EIC works closely with industry partners in supporting and fulfilling their business and social objectives.</p>\n<a class=\"wwd-card-link\" href=\"/testing\">Read More &rarr;</a></div>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 7 \u2014 Our Collaborations\n     ========================================================= -->\n<style type=\"text/css\">.oc-collab, .oc-collab *, .oc-collab *::before, .oc-collab *::after { box-sizing: border-box; }\n.oc-collab {\n  --oc-blue:#086AD8; --oc-navy:#0e2b3d; --oc-ink:#55606b; --oc-gold:#d99a2b; --oc-line:#e3e8f0;\n  font-family: 'Inter', sans-serif;\n  background-color: #ffffff;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.oc-collab .oc-container { max-width: 75rem; margin: 0 auto; }\n.oc-collab .oc-head { text-align: center; margin-bottom: 2.75rem; }\n.oc-collab .oc-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--oc-gold); }\n.oc-collab .oc-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }\n@media (min-width: 48rem) { .oc-collab .oc-grid { grid-template-columns: repeat(3, 1fr); } }\n.oc-collab .oc-card { display: flex; align-items: center; gap: 1.1rem; border: 1px solid var(--oc-line); border-radius: 0.85rem; padding: 1.25rem 1.4rem; text-decoration: none; transition: box-shadow 0.2s ease, transform 0.2s ease; }\n.oc-collab .oc-card:hover { transform: translateY(-0.2rem); box-shadow: 0 1rem 2rem -0.8rem rgba(14,43,61,0.2); }\n.oc-collab .oc-logo { flex: none; width: 3.5rem; height: 3.5rem; border-radius: 0.6rem; background-color: #f5f8fc; display: flex; align-items: center; justify-content: center; padding: 0.5rem; }\n.oc-collab .oc-logo img { max-width: 100%; max-height: 100%; object-fit: contain; }\n.oc-collab .oc-name { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--oc-navy); font-size: 1rem; }\n.oc-collab .oc-tag { color: var(--oc-ink); font-size: 0.8rem; margin-top: 0.1rem; }\n</style>\n<div class=\"oc-collab\" id=\"our-collaborations\">\n<div class=\"oc-container\">\n<div class=\"oc-head\">\n<div class=\"oc-eyebrow\">Our Collaborations</div>\n</div>\n\n<div class=\"oc-grid\">\n<a class=\"oc-card\" href=\"https://opennetworking.org/member-listing/\" rel=\"noopener\" target=\"_blank\">\n  <div class=\"oc-logo\"><img alt=\"CalPoly logo\" src=\"/uploads/2021/05/collaboration.png\" /></div>\n  <div>\n    <div class=\"oc-name\">CalPoly</div>\n    <div class=\"oc-tag\">CalPoly Pomona, USA</div>\n  </div>\n</a>\n\n<a class=\"oc-card\" href=\"https://tsdsi.in/present_members/\" rel=\"noopener\" target=\"_blank\">\n  <div class=\"oc-logo\"><img alt=\"NISE logo\" src=\"/uploads/2021/07/1.jpg\" /></div>\n  <div>\n    <div class=\"oc-name\">NISE</div>\n    <div class=\"oc-tag\">National Institute of Solar Energy (NISE)</div>\n  </div>\n</a>\n\n<a class=\"oc-card\" href=\"/expression-of-interest-einfochips\">\n  <div class=\"oc-logo\"><img alt=\"Einfochips logo\" src=\"/uploads/2021/06/GNU_logo_icon.png\" /></div>\n  <div>\n    <div class=\"oc-name\">Einfochips</div>\n    <div class=\"oc-tag\">Industry Collaboration Partner</div>\n  </div>\n</a>\n</div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 8 \u2014 Leadership / Governance\n     ========================================================= -->\n<style type=\"text/css\">.lt-team, .lt-team *, .lt-team *::before, .lt-team *::after { box-sizing: border-box; }\n.lt-team {\n  --lt-blue:#086AD8; --lt-navy:#0e2b3d; --lt-ink:#55606b; --lt-gold:#d99a2b;\n  font-family: 'Inter', sans-serif;\n  background-color: #f5f8fc;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.lt-team .lt-container { max-width: 75rem; margin: 0 auto; }\n.lt-team .lt-head { text-align: center; max-width: 34rem; margin: 0 auto 2.75rem; }\n.lt-team .lt-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--lt-gold); margin-bottom: 0.6rem; }\n.lt-team .lt-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--lt-navy); font-size: clamp(1.5rem, 3vw, 2.1rem); }\n.lt-team .lt-grid { display: grid; grid-template-columns: 1fr; gap: 1.75rem; max-width: 42rem; margin: 0 auto; }\n@media (min-width: 36rem) { .lt-team .lt-grid { grid-template-columns: repeat(2, 1fr); } }\n.lt-team .lt-card { background-color: #fff; border-radius: 0.85rem; overflow: hidden; text-align: center; box-shadow: 0 0.6rem 1.75rem -0.9rem rgba(14,43,61,0.2); }\n.lt-team .lt-thumb { aspect-ratio: 4/3.4; overflow: hidden; }\n.lt-team .lt-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }\n.lt-team .lt-card-body { padding: 1.25rem 1.1rem 1.5rem; }\n.lt-team .lt-name { font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--lt-navy); font-size: 1.02rem; margin-bottom: 0.3rem; }\n.lt-team .lt-role { color: var(--lt-ink); font-size: 0.85rem; }\n.lt-team .lt-footer { text-align: center; margin-top: 2.5rem; }\n.lt-team .lt-btn { display: inline-block; background-color: transparent; color: var(--lt-blue); border: 2px solid var(--lt-blue); font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.9rem; padding: 0.75rem 2rem; border-radius: 2rem; text-decoration: none; }\n.lt-team .lt-btn:hover { background-color: var(--lt-blue); color: #fff; }\n</style>\n<div class=\"lt-team\" id=\"leadership-team\">\n<div class=\"lt-container\">\n<div class=\"lt-head\">\n<div class=\"lt-eyebrow\">Governance</div>\n\n<div class=\"lt-title\">Meet Our Leadership</div>\n</div>\n\n<div class=\"lt-grid\">\n<div class=\"lt-card\">\n<div class=\"lt-thumb\"><img alt=\"Padmashri Ganpatbhai Patel\" src=\"/uploads/shri-ganpatbhai-patel2-1787220919108.jpg\" /></div>\n\n<div class=\"lt-card-body\">\n<div class=\"lt-name\">Padmashri Ganpatbhai Patel</div>\n\n<div class=\"lt-role\">Patron-in-Chief &amp; President</div>\n</div>\n</div>\n\n<div class=\"lt-card\">\n<div class=\"lt-thumb\"><img alt=\"Dr. Mahendra Sharma\" src=\"/uploads/mahendra-sharma-1787299901168.png\" /></div>\n\n<div class=\"lt-card-body\">\n<div class=\"lt-name\">Dr. Mahendra Sharma</div>\n\n<div class=\"lt-role\">Pro-Chancellor and Director General</div>\n</div>\n</div>\n</div>\n\n<div class=\"lt-footer\"><a class=\"lt-btn\" href=\"/advisory-committee\">View All</a></div>\n</div>\n</div>\n<!-- =========================================================\n     SECTION 9 \u2014 FAQ\n     ========================================================= -->\n<style type=\"text/css\">.faq-section, .faq-section *, .faq-section *::before, .faq-section *::after { box-sizing: border-box; }\n.faq-section {\n  --faq-blue:#086AD8; --faq-navy:#0e2b3d; --faq-ink:#55606b; --faq-gold:#d99a2b; --faq-line:#e3e8f0;\n  font-family: 'Inter', sans-serif;\n  background-color: #ffffff;\n  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem;\n}\n.faq-section .faq-container { max-width: 75rem; margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 2rem; }\n@media (min-width: 55rem) { .faq-section .faq-container { grid-template-columns: 0.8fr 1.2fr; } }\n.faq-section .faq-eyebrow { font-family: 'Poppins', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faq-gold); margin-bottom: 0.6rem; }\n.faq-section .faq-title { font-family: 'Poppins', sans-serif; font-weight: 700; color: var(--faq-navy); font-size: clamp(1.5rem, 3vw, 2.1rem); line-height: 1.25; margin-bottom: 1.25rem; }\n.faq-section .faq-viewall { display: inline-block; color: var(--faq-blue); font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 0.88rem; text-decoration: none; border-bottom: 2px solid var(--faq-blue); padding-bottom: 0.15rem; }\n.faq-section .faq-list { display: grid; gap: 0.9rem; }\n.faq-section details { border: 1px solid var(--faq-line); border-radius: 0.65rem; padding: 0; background-color: #f5f8fc; overflow: hidden; }\n.faq-section summary {\n  list-style: none; cursor: pointer; padding: 1.1rem 1.3rem;\n  font-family: 'Poppins', sans-serif; font-weight: 600; color: var(--faq-navy); font-size: 0.96rem;\n  display: flex; align-items: center; justify-content: space-between; gap: 1rem;\n}\n.faq-section summary::-webkit-details-marker { display: none; }\n.faq-section summary::after {\n  content: \"+\"; flex: none; width: 1.6rem; height: 1.6rem; border-radius: 50%;\n  background-color: var(--faq-blue); color: #fff; display: flex; align-items: center; justify-content: center;\n  font-size: 1rem; line-height: 1;\n}\n.faq-section details[open] summary::after { content: \"\u2013\"; }\n.faq-section .faq-answer { padding: 0 1.3rem 1.2rem; color: var(--faq-ink); font-size: 0.9rem; line-height: 1.65; }\n</style>\n<div class=\"faq-section\" id=\"faq-section\">\n<div class=\"faq-container\">\n<div>\n<div class=\"faq-eyebrow\">FAQ</div>\n\n<div class=\"faq-title\">Most common answer and question</div>\n<a class=\"faq-viewall\" href=\"#faq-section\">View All FAQs</a></div>\n\n<div class=\"faq-list\">\n<details open=\"\"><summary>What is Energy Innovation Centre (EIC)?</summary>\n\n<p class=\"faq-answer\">In clean energy, Clean Energy is the fifth-generation technology standard for broadband cellular networks, which cellular phone companies began deploying worldwide in 2019. It is the planned successor to 4G networks, which provide connectivity to most current cellphones.</p>\n</details>\n\n<details><summary>Who can attend Renewable Energy & EV workshops?</summary>\n\n<p class=\"faq-answer\">Any individual student, faculty member, industry expert or research fellow can join our seminars and workshops.</p>\n</details>\n\n<details><summary>Who can collaborate with Ganpat University for Clean Energy?</summary>\n\n<p class=\"faq-answer\">Ganpat University actively collaborates with various technological institutes and R&amp;D organizations in India and abroad. Various collaboration models are followed to suit the institute and the project context.</p>\n</details>\n</div>\n</div>\n</div>\n",
+            "title": "",
+            "subtitle": "",
+            "fullWidth": true
+          },
+          "type": "custom"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 0,
+      "createdAt": "2026-11-13T21:38:16.969Z",
+      "updatedAt": "2026-11-15T17:23:45.714Z"
+    },
+    {
+      "id": "page-about-us",
+      "slug": "about-us",
+      "title": "About Us",
+      "metaTitle": "About Us | Energy Innovation Centre (EIC)",
+      "metaDescription": "Committed to social upliftment through education and accelerating India's transition to sustainable energy and electric mobility.",
+      "sections": [
+        {
+          "id": "about-us-hero",
+          "data": {
+            "title": "About Energy Innovation Centre",
+            "variant": "subpage-dark",
+            "subtitle": "Ganpat University \u2014 Centre of Excellence",
+            "isSubpage": true,
+            "description": "Committed to philanthropic social upliftment, cutting-edge clean energy research, and India's transition to sustainable mobility.",
+            "subpageAlign": "left",
+            "subpageHeight": "default",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "about-us-narrative",
+          "data": {
+            "body": [
+              "In the era of increasing industrialization and urbanization, there is an increased demand for energy which is usually generated from fossil fuels. The use of fossil fuels leads to enhanced emissions of greenhouse gases, elevated pollution levels, and planet warming resulting in catastrophic climate change.",
+              "To save the planet, we must completely shift to renewable energy sources for our use in homes, offices, transport, and industries. Clean sources such as solar, wind, biomass, and biogas harness energy without harmful emissions, generating green power.",
+              "According to IPCC surveys, traffic accounts for 23% of worldwide CO2 emissions. Electric vehicles (EVs) counter this by operating with zero tailpipe emissions. At Ganpat University (GUNI), our Energy Innovation Centre is actively addressing EV challenges\u2014including fast charging, high battery capacity, and life testing protocols\u2014while integrating them into an intelligent campus microgrid."
+            ],
+            "title": "Transforming Clean Energy & Mobility",
+            "category": "Centre Background",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/05/Ganpat-uni.png",
+            "imageAlt": "Ganpat University Campus",
+            "imageBadge": {
+              "value": "Centre of Excellence",
+              "label": "Ganpat University EIC"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Focus Areas",
+                  "value": "4 Pillars"
+                },
+                {
+                  "label": "Established",
+                  "value": "2021"
+                },
+                {
+                  "label": "Campus Vision",
+                  "value": "Microgrid Powered"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "about-us-pillars",
+          "data": {
+            "items": [
+              {
+                "title": "Renewable Energy Innovation",
+                "description": "Harnessing solar, wind, biomass, and hydro energy resources for sustainable clean power generation.",
+                "image": "/uploads/2021/07/renewable-energy-810x524-1.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Solar PV array systems",
+                  "Wind turbines integration",
+                  "Bio-energy conversion"
+                ]
+              },
+              {
+                "title": "Electric Vehicles & Mobility",
+                "description": "Advanced EV powertrain research, battery testing, fast charging stations, and smart energy storage.",
+                "image": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Li-ion battery testing",
+                  "Powertrain optimization",
+                  "EV charging hubs"
+                ]
+              },
+              {
+                "title": "Campus Microgrid Technology",
+                "description": "Transforming the Ganpat University campus into a smart, resilient, and self-sufficient microgrid.",
+                "image": "/uploads/2021/07/Microgrid.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Distributed resources (DER)",
+                  "Automated power dispatch",
+                  "Grid synchronization"
+                ]
+              },
+              {
+                "title": "Biogas & Bio-Energy",
+                "description": "Sustainable waste-to-energy conversion producing clean fuel and organic nutrient-rich fertilizer.",
+                "image": "/uploads/2021/07/scheme_engelsk_lille.jpg",
+                "icon": "Globe",
+                "highlights": [
+                  "Anaerobic digestion plant",
+                  "Zero organic waste",
+                  "Campus green heating"
+                ]
+              }
+            ],
+            "title": "Key Strategic Pillars",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Focus Areas of EIC"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 1,
+      "createdAt": "2026-11-13T21:38:16.989Z",
+      "updatedAt": "2026-11-15T17:23:45.751Z"
+    },
+    {
+      "id": "page-contact-us",
+      "slug": "contact-us",
+      "title": "Contact Us",
+      "metaTitle": "Contact Us | Energy Innovation Centre (EIC)",
+      "metaDescription": "Get in touch with the Energy Innovation Centre (EIC) at Ganpat University.",
+      "sections": [
+        {
+          "id": "contact-hero",
+          "data": {
+            "title": "Contact Us",
+            "variant": "subpage-dark",
+            "subtitle": "Reach Out to EIC",
+            "isSubpage": true,
+            "description": "Connect with our research coordinators, administrative secretariat, or plan a campus lab visit.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "contact-main-block",
+          "data": {
+            "title": "Get in Touch",
+            "subtitle": "Reach out to India's Most Recognized Green Innovation Campus"
+          },
+          "type": "contact"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 13,
+      "createdAt": "2026-11-13T21:38:17.028Z",
+      "updatedAt": "2026-11-15T17:24:42.442Z"
+    },
+    {
+      "id": "cmwi3sycb0009w5g4uyg3x0y6",
+      "slug": "about",
+      "title": "About",
+      "metaTitle": "About | Energy Innovation Centre (EIC)",
+      "metaDescription": "About EIC Energy Innovation Centre, Ganpat University.",
+      "sections": [
+        {
+          "id": "about-hero",
+          "data": {
+            "title": "About EIC",
+            "variant": "subpage-dark",
+            "subtitle": "Energy Innovation Centre \u2014 Ganpat University",
+            "isSubpage": true,
+            "description": "Pioneering sustainable technological innovation and research excellence at Ganpat University Energy Innovation Centre (EIC).",
+            "subpageAlign": "left",
+            "subpageHeight": "default",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "about-narrative",
+          "data": {
+            "body": [
+              "The Energy Innovation Centre (EIC \u2014 EIC) is a state-of-the-art Centre of Excellence established at Ganpat University. It unites researchers, faculty, students, and global partners to advance green technologies, e-mobility, smart microgrids, and battery storage solutions."
+            ],
+            "title": "Excellence in Sustainable Energy",
+            "category": "Overview",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/05/Ganpat-uni.png",
+            "imageAlt": "Ganpat University Campus",
+            "imageBadge": {
+              "value": "Centre of Excellence",
+              "label": "Ganpat University EIC"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Focus Areas",
+                  "value": "4 Pillars"
+                },
+                {
+                  "label": "Established",
+                  "value": "2021"
+                },
+                {
+                  "label": "Campus Vision",
+                  "value": "Microgrid Powered"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "about-grid",
+          "data": {
+            "items": [
+              {
+                "title": "Renewable Energy Innovation",
+                "description": "Harnessing solar, wind, biomass, and hydro energy resources for sustainable clean power generation.",
+                "image": "/uploads/2021/07/renewable-energy-810x524-1.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Solar PV array systems",
+                  "Wind turbines integration",
+                  "Bio-energy conversion"
+                ]
+              },
+              {
+                "title": "Electric Vehicles & Mobility",
+                "description": "Advanced EV powertrain research, battery testing, fast charging stations, and smart energy storage.",
+                "image": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Li-ion battery testing",
+                  "Powertrain optimization",
+                  "EV charging hubs"
+                ]
+              },
+              {
+                "title": "Campus Microgrid Technology",
+                "description": "Transforming the Ganpat University campus into a smart, resilient, and self-sufficient microgrid.",
+                "image": "/uploads/2021/07/Microgrid.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Distributed resources (DER)",
+                  "Automated power dispatch",
+                  "Grid synchronization"
+                ]
+              },
+              {
+                "title": "Biogas & Bio-Energy",
+                "description": "Sustainable waste-to-energy conversion producing clean fuel and organic nutrient-rich fertilizer.",
+                "image": "/uploads/2021/07/scheme_engelsk_lille.jpg",
+                "icon": "Globe",
+                "highlights": [
+                  "Anaerobic digestion plant",
+                  "Zero organic waste",
+                  "Campus green heating"
+                ]
+              }
+            ],
+            "title": "Core Capabilities",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Institutional Strengths"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 2,
+      "createdAt": "2026-11-15T17:23:45.755Z",
+      "updatedAt": "2026-11-15T17:23:45.755Z"
+    },
+    {
+      "id": "cmwi3sycr000aw5g4z0htiqxi",
+      "slug": "vision",
+      "title": "Vision & Mission",
+      "metaTitle": "Vision & Mission | Energy Innovation Centre (EIC)",
+      "metaDescription": "Our vision to create a 100% renewable powered microgrid campus and lead global clean energy innovation.",
+      "sections": [
+        {
+          "id": "vision-hero",
+          "data": {
+            "title": "Vision & Mission",
+            "variant": "subpage-dark",
+            "subtitle": "Sustainable Green Campus Roadmap",
+            "isSubpage": true,
+            "description": "Driving sustainable technological innovation and transforming Ganpat University into a zero-carbon, self-sufficient campus.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/lightbulb-renewable-energy.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "vision-narrative",
+          "data": {
+            "body": [
+              "Vision: To become a globally recognized Centre of Excellence in clean energy education, research, and innovation, spearheading cutting-edge green technologies for the preservation of our planet.",
+              "Mission: Empowering students, researchers, and industries with state-of-the-art facilities in clean energy, electric mobility, smart microgrids, and advanced storage solutions; delivering practical proof-of-concept prototypes that transition society away from fossil fuels."
+            ],
+            "title": "Towards a Net-Zero Green Campus",
+            "category": "Vision Statement",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/unnamed.jpg",
+            "imageAlt": "Green Energy Vision",
+            "imageBadge": {
+              "value": "Vision 2026",
+              "label": "Carbon Neutral Campus"
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "vision-goals",
+          "data": {
+            "items": [
+              {
+                "title": "Our Vision",
+                "description": "To pioneer innovative clean energy technologies and transform Ganpat University into a world-class model for green energy resilience.",
+                "image": "/uploads/2021/07/bigstock-Company-Or-Corporate-Vision-Co-67712395.jpg",
+                "icon": "Target",
+                "highlights": [
+                  "Global academic leadership",
+                  "Sustainable campus microgrid",
+                  "Clean technology acceleration"
+                ]
+              },
+              {
+                "title": "Our Mission",
+                "description": "Conduct cutting-edge interdisciplinary R&D in renewable energy, deliver practical student training, and partner with top global institutions.",
+                "image": "/uploads/2021/07/TBG-Security-Mission-Statement.jpg",
+                "icon": "Award",
+                "highlights": [
+                  "Hands-on engineering",
+                  "Industry problem solving",
+                  "IP creation & patents"
+                ]
+              },
+              {
+                "title": "Clean Energy Commitment",
+                "description": "Powering university operations via sustainable solar, wind, and bio-energy to reduce environmental impact and inspire the next generation.",
+                "image": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+                "icon": "Sparkles",
+                "highlights": [
+                  "Carbon footprint reduction",
+                  "Living lab for students",
+                  "Green energy adoption"
+                ]
+              }
+            ],
+            "title": "Strategic Milestones",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Long-term Goals"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 3,
+      "createdAt": "2026-11-15T17:23:45.772Z",
+      "updatedAt": "2026-11-15T17:23:45.772Z"
+    },
+    {
+      "id": "cmwi3sycv000bw5g49w5v1mot",
+      "slug": "objectives",
+      "title": "Objectives",
+      "metaTitle": "Objectives | Energy Innovation Centre (EIC)",
+      "metaDescription": "The core objectives of the Energy Innovation Centre at Ganpat University.",
+      "sections": [
+        {
+          "id": "objectives-hero",
+          "data": {
+            "title": "Centre Objectives",
+            "variant": "subpage-dark",
+            "subtitle": "Mandate of Energy Innovation Centre",
+            "isSubpage": true,
+            "description": "Six fundamental objectives guiding research, infrastructure development, and clean technology deployment.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/pexels-pixabay-159397-1536x864-1.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "objectives-grid",
+          "data": {
+            "items": [
+              {
+                "title": "Campus Microgrid Transition",
+                "description": "In 5 years, transform our campus into a fully self-reliant microgrid powered entirely by solar, wind, biogas, and clean storage systems.",
+                "image": "/uploads/2021/07/Microgrid.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "100% renewable power target",
+                  "Campus-wide grid automation",
+                  "Zero grid outages"
+                ]
+              },
+              {
+                "title": "Interdisciplinary Research & Development",
+                "description": "Provide state-of-the-art infrastructure for interdisciplinary research in electric mobility, battery storage, and solar photovoltaics.",
+                "image": "/uploads/2021/07/research1.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Cutting-edge lab facilities",
+                  "Cross-department innovation",
+                  "High-impact publications"
+                ]
+              },
+              {
+                "title": "Practical Hands-on Training",
+                "description": "Equip engineering students and technical professionals with hands-on skills in EV powertrains, smart inverters, and battery diagnostic testing.",
+                "image": "/uploads/2021/05/Training1.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "Industry-ready curriculum",
+                  "Real hardware exposure",
+                  "Certification programs"
+                ]
+              },
+              {
+                "title": "Industry & Global Collaboration",
+                "description": "Partner with world-renowned universities and leading clean energy enterprises including CalPoly, IIT Hyderabad, and NISE.",
+                "image": "/uploads/2021/05/collaboration.png",
+                "icon": "Globe",
+                "highlights": [
+                  "Joint research grants",
+                  "Knowledge exchange",
+                  "Tech commercialization"
+                ]
+              },
+              {
+                "title": "Sustainable Environmental Impact",
+                "description": "Reduce greenhouse gas emissions, minimize fossil fuel dependency, and serve as a living demonstration of clean power for society.",
+                "image": "/uploads/2021/07/eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg",
+                "icon": "Sparkles",
+                "highlights": [
+                  "Reduced carbon emissions",
+                  "Waste recycling",
+                  "Eco-friendly campus"
+                ]
+              }
+            ],
+            "title": "Core Objectives",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Strategic Roadmap"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 4,
+      "createdAt": "2026-11-15T17:23:45.775Z",
+      "updatedAt": "2026-11-15T17:23:45.775Z"
+    },
+    {
+      "id": "cmwi3sycy000cw5g4wcls0ovs",
+      "slug": "features",
+      "title": "Key Features",
+      "metaTitle": "Key Features | Energy Innovation Centre (EIC)",
+      "metaDescription": "Excellence in research, testing, proof of concept, and technology demonstration.",
+      "sections": [
+        {
+          "id": "features-hero",
+          "data": {
+            "title": "Key Features",
+            "variant": "subpage-dark",
+            "subtitle": "Excellence in Research & Innovation",
+            "isSubpage": true,
+            "description": "From fundamental research to pilot-scale field demonstrations and commercial startup incubation.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "features-grid",
+          "data": {
+            "items": [
+              {
+                "title": "Collaborative Research",
+                "description": "Joint R&D ventures with international universities, national institutes, and industry pioneers in clean energy.",
+                "image": "/uploads/2021/05/collaboration.png",
+                "icon": "Globe",
+                "highlights": [
+                  "Global academic network",
+                  "Cross-institutional labs",
+                  "Sponsored projects"
+                ]
+              },
+              {
+                "title": "Novel Technology & Product Development",
+                "description": "Engineering innovative solutions in electric vehicle battery chargers, power converters, and smart inverters.",
+                "image": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Patented designs",
+                  "Hardware prototyping",
+                  "Energy management systems"
+                ]
+              },
+              {
+                "title": "Proof-of-Concept & Pilot Scale Testing",
+                "description": "Comprehensive facilities for validating initial lab-scale concepts up to full pilot-scale field implementations.",
+                "image": "/uploads/2021/06/Testing1.png",
+                "icon": "Award",
+                "highlights": [
+                  "Lab-scale validation",
+                  "Pilot field testing",
+                  "Performance metrics"
+                ]
+              },
+              {
+                "title": "Professional Educational Programs",
+                "description": "Accredited certificate, PG diploma, and continuous professional training for students and industry engineers.",
+                "image": "/uploads/2021/05/Computer-Networking-Education.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "EV engineering courses",
+                  "Renewable microgrid diploma",
+                  "Hands-on workshops"
+                ]
+              },
+              {
+                "title": "Smart Campus Microgrid Living Lab",
+                "description": "Real-world deployment of renewable energy sources, energy storage, and automated microgrid controls across the campus.",
+                "image": "/uploads/2021/07/Microgrid.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Real-time monitoring",
+                  "Demand response system",
+                  "Distributed power nodes"
+                ]
+              },
+              {
+                "title": "Green Transition & Sustainability",
+                "description": "Driving local and regional transition away from fossil fuel consumption toward clean, zero-emission green power.",
+                "image": "/uploads/2021/07/unnamed.jpg",
+                "icon": "Sparkles",
+                "highlights": [
+                  "Clean energy advocacy",
+                  "Community awareness",
+                  "Carbon footprint reduction"
+                ]
+              }
+            ],
+            "title": "Operational Capabilities",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Core Strengths"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 5,
+      "createdAt": "2026-11-15T17:23:45.778Z",
+      "updatedAt": "2026-11-15T17:23:45.778Z"
+    },
+    {
+      "id": "cmwi3syd1000dw5g4mg2dyb1u",
+      "slug": "board-of-studies",
+      "title": "Board of Studies",
+      "metaTitle": "Board of Studies | Energy Innovation Centre (EIC)",
+      "metaDescription": "Eminent academic and industry leadership guiding Energy Innovation Centre (EIC).",
+      "sections": [
+        {
+          "id": "board-of-studies-hero",
+          "data": {
+            "title": "Board of Studies",
+            "variant": "subpage-dark",
+            "subtitle": "Governance & Academic Advisory Committee",
+            "isSubpage": true,
+            "description": "Distinguished leaders from academia, industry, and governance steering our energy research.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "board-people-block",
+          "data": {
+            "title": "Governing Council & Board of Studies",
+            "subtitle": "Eminent academicians, technocrats, and policy advisors",
+            "titleAlignment": "center",
+            "people": [
+              {
+                "name": "Padmashri Ganpatbhai Patel",
+                "designation": "Patron & President, Ganpat University",
+                "role": "Patron & President",
+                "image": "/uploads/2021/05/Shri-Ganpatbhai-Patel2.jpg",
+                "organization": "Ganpat University",
+                "bio": "Industrialist, Philanthropist and Patron of Ganpat University. Founder of Cherokee International and recipient of the prestigious Padmashri award for monumental contributions to education and society."
+              },
+              {
+                "name": "Dr. Mahendra Sharma",
+                "designation": "Pro-Chancellor, Ganpat University",
+                "role": "Pro-Chancellor",
+                "image": "/uploads/2021/06/7D3A116611.jpg",
+                "organization": "Ganpat University",
+                "bio": "Distinguished academic leader, Professor of Management, and Pro-Chancellor of Ganpat University with decades of pioneering contributions to higher education governance."
+              },
+              {
+                "name": "Shri Becharbhai Patel",
+                "designation": "Member, Board of Studies",
+                "role": "Board Member",
+                "image": "/uploads/2021/06/Becharbhai-Patel_1.jpeg",
+                "organization": "Ganpat University EIC",
+                "bio": "Senior institutional advisor and valued member of the Board of Studies, guiding curriculum development and industry alignment in energy engineering."
+              },
+              {
+                "name": "Dr. Amit Patel",
+                "designation": "Academic Member, Board of Studies",
+                "role": "Academic Advisor",
+                "image": "/uploads/2021/06/Amit-Patel-scaled.jpg",
+                "organization": "Ganpat University",
+                "bio": "Leading researcher in engineering and technology, providing strategic direction for curriculum, innovation laboratories, and research programs at EIC."
+              }
+            ]
+          },
+          "type": "people"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 6,
+      "createdAt": "2026-11-15T17:23:45.781Z",
+      "updatedAt": "2026-11-15T17:23:45.781Z"
+    },
+    {
+      "id": "cmwi3syd2000ew5g4ugnatf54",
+      "slug": "renewable-energy",
+      "title": "Renewable Energy",
+      "metaTitle": "Renewable Energy | Energy Innovation Centre (EIC)",
+      "metaDescription": "Harnessing clean, naturally replenished energy resources across the Ganpat University campus.",
+      "sections": [
+        {
+          "id": "renewable-energy-hero",
+          "data": {
+            "title": "Renewable Energy",
+            "variant": "subpage-dark",
+            "subtitle": "Sources of Naturally Replenished Power",
+            "isSubpage": true,
+            "description": "Exploring solar, wind, biomass, and hydrogen technologies to eliminate reliance on fossil fuels.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "re-narrative",
+          "data": {
+            "body": [
+              "Renewable energy is useful energy collected from renewable resources, which are naturally replenished on a human timescale, including sunlight, wind, rain, tides, waves, geothermal heat, and biomass.",
+              "At Ganpat University (GUNI), our Energy Innovation Centre is actively exploring and deploying multiple renewable generation avenues:\n1. Solar Photovoltaic: Rooftop and ground-mounted solar arrays powering campus faculties and labs.\n2. Wind Energy: Micro-turbines and hybrid solar-wind installations providing round-the-clock power.\n3. Biomass & Biogas: Organic farm and cafeteria waste anaerobic digestion producing clean methane fuel.\n4. Clean Storage Integration: Coupling renewable generation with battery energy storage systems (BESS) to smooth out generation intermittencies."
+            ],
+            "title": "Sources of Clean Renewable Energy",
+            "category": "Clean Power",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/renewable-energy-810x524-1.jpg",
+            "imageAlt": "Renewable Energy Sources",
+            "imageBadge": {
+              "value": "Clean Power",
+              "label": "Naturally Replenished"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Solar Capacity",
+                  "value": "Campus Arrays"
+                },
+                {
+                  "label": "Wind Energy",
+                  "value": "Turbine Research"
+                },
+                {
+                  "label": "Biofuel",
+                  "value": "Active Digester"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "re-sources",
+          "data": {
+            "items": [
+              {
+                "title": "Solar Photovoltaic Energy",
+                "description": "Utilizing photovoltaic cells and concentrated solar panels to generate clean electrical energy directly from sunlight.",
+                "image": "/uploads/2021/07/pexels-pixabay-159397-1536x864-1.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Rooftop solar arrays",
+                  "High-efficiency MPPT controllers",
+                  "Grid-tied inverters"
+                ]
+              },
+              {
+                "title": "Wind Energy Generation",
+                "description": "Harnessing kinetic airflow through high-efficiency wind turbines to generate clean electric power with zero emissions.",
+                "image": "/uploads/2021/07/pexels-mike-110844-1536x863-1.jpg",
+                "icon": "Sparkles",
+                "highlights": [
+                  "Aerodynamic blade design",
+                  "Variable speed generators",
+                  "Hybrid wind-solar integration"
+                ]
+              },
+              {
+                "title": "Biomass & Organic Fuel",
+                "description": "Converting agricultural waste, animal residues, and food waste into combustible biogas and nutrient-rich biofertilizers.",
+                "image": "/uploads/2021/07/examples-renewable-energy-wind-solar-biomass-geothermal.jpg",
+                "icon": "Globe",
+                "highlights": [
+                  "Anaerobic biodigesters",
+                  "Circular economy loops",
+                  "Methane gas purification"
+                ]
+              },
+              {
+                "title": "Hydro & Energy Storage",
+                "description": "Exploring small-scale hydro generation and advanced storage technologies to balance renewable fluctuations.",
+                "image": "/uploads/2021/07/unnamed.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Pumped storage potential",
+                  "Flow battery integration",
+                  "Continuous power delivery"
+                ]
+              }
+            ],
+            "title": "Campus Renewable Installations",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Technology Portfolio"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 7,
+      "createdAt": "2026-11-15T17:23:45.783Z",
+      "updatedAt": "2026-11-15T17:23:45.783Z"
+    },
+    {
+      "id": "cmwi3syd6000fw5g4tdh4iz1v",
+      "slug": "electric-vehicles",
+      "title": "Electric Vehicles",
+      "metaTitle": "Electric Vehicles (EVs) | Energy Innovation Centre (EIC)",
+      "metaDescription": "Pioneering research in electric drivetrains, battery management, and smart EV charging infrastructure.",
+      "sections": [
+        {
+          "id": "electric-vehicles-hero",
+          "data": {
+            "title": "Electric Vehicles (EVs)",
+            "variant": "subpage-dark",
+            "subtitle": "Next-Generation Clean Mobility",
+            "isSubpage": true,
+            "description": "Driving zero-emission transportation through advanced electric powertrains and smart battery packs.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "ev-narrative",
+          "data": {
+            "body": [
+              "An electric vehicle (EV) operates on an electric motor instead of an internal combustion engine (ICE). Unlike gasoline and diesel cars, EVs emit zero tailpipe CO2, reduce urban noise, and deliver significantly higher well-to-wheel energy efficiency.",
+              "Yet, EVs are truly carbon-neutral only if the batteries and electricity to power them come from renewable resources. To overcome current limitations\u2014such as range anxiety, long charging times, and battery degradation\u2014our centre focuses on developing superior fast-charging protocols, high-energy-density battery packs, robust motor controllers, and Vehicle-to-Grid (V2G) emergency backup integration."
+            ],
+            "title": "What is Electric Mobility?",
+            "category": "E-Mobility",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/ImageForArticle_1094_15905836938893485.png",
+            "imageAlt": "Electric Vehicles & Powertrains",
+            "imageBadge": {
+              "value": "Zero Emission",
+              "label": "Clean EV Mobility"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Motor Type",
+                  "value": "BLDC & PMSM"
+                },
+                {
+                  "label": "Battery",
+                  "value": "Lithium-Ion / LFP"
+                },
+                {
+                  "label": "Efficiency",
+                  "value": "Up to 90%"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "ev-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Advanced Battery Packs",
+                "description": "High-density Lithium-ion and solid-state battery chemistry testing, pack assembly, and thermal management.",
+                "image": "/uploads/2021/07/EnergyStorage.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Thermal modeling",
+                  "Cycle life diagnostics",
+                  "LFP & NMC chemistries"
+                ]
+              },
+              {
+                "title": "EV Powertrains & Inverters",
+                "description": "Design, simulation, and performance benchmarking of high-efficiency motor controllers and traction motors.",
+                "image": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Permanent magnet synchronous motors",
+                  "SiC inverter design",
+                  "Regenerative braking"
+                ]
+              },
+              {
+                "title": "Fast Charging Infrastructure",
+                "description": "Smart AC and DC fast chargers integrated with solar carports and smart microgrid power management.",
+                "image": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Combined Charging System (CCS)",
+                  "Solar carport integration",
+                  "Vehicle-to-Grid (V2G)"
+                ]
+              },
+              {
+                "title": "Battery Management Systems (BMS)",
+                "description": "Intelligent algorithms for state-of-charge (SOC), state-of-health (SOH) estimation, and active cell balancing.",
+                "image": "/uploads/2021/06/Testing2.png",
+                "icon": "Award",
+                "highlights": [
+                  "Active cell balancing",
+                  "Fault detection & isolation",
+                  "CAN bus communication"
+                ]
+              }
+            ],
+            "title": "EV Research Verticals",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Laboratory Focus"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 8,
+      "createdAt": "2026-11-15T17:23:45.786Z",
+      "updatedAt": "2026-11-15T17:23:45.786Z"
+    },
+    {
+      "id": "cmwi3syd8000gw5g46d9kr6f7",
+      "slug": "microgrid-technology",
+      "title": "Microgrid Technology",
+      "metaTitle": "Microgrid Technology | Energy Innovation Centre (EIC)",
+      "metaDescription": "Autonomous, intelligent campus energy networks with seamless grid-tied and islanded operation.",
+      "sections": [
+        {
+          "id": "microgrid-technology-hero",
+          "data": {
+            "title": "Microgrid Technology",
+            "variant": "subpage-dark",
+            "subtitle": "Self-Sufficient Smart Energy Systems",
+            "isSubpage": true,
+            "description": "Creating intelligent distributed power systems that ensure 100% reliable, clean energy for our campus.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/Microgrid.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "microgrid-narrative",
+          "data": {
+            "body": [
+              "A microgrid is a self-sufficient energy system that serves a discrete geographic footprint\u2014such as a university campus, hospital complex, or small township. It integrates multiple distributed energy resources (solar arrays, wind turbines, biogas plants, battery energy storage) and can operate either connected to the state electrical grid or in autonomous islanded mode.",
+              "Ganpat University is developing Project PRISM (Project for Research & Installation of Smart Microgrid) in collaboration with IIT Hyderabad and the National Institute of Solar Energy (NISE). PRISM optimizes renewable power flows, enhances power quality, and provides frequency and voltage stabilization across campus substations."
+            ],
+            "title": "Campus Microgrids: Project PRISM",
+            "category": "Distribution",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+            "imageAlt": "Microgrid Control Circuit",
+            "imageBadge": {
+              "value": "Islanded & Grid-Tied",
+              "label": "Smart Microgrid"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Control",
+                  "value": "Centralized / Distributed"
+                },
+                {
+                  "label": "Resilience",
+                  "value": "Seamless Islanding"
+                },
+                {
+                  "label": "Campus Nodes",
+                  "value": "Multiple Sub-grids"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "microgrid-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Distributed Energy Resources (DER)",
+                "description": "Seamless integration of localized rooftop solar, wind generators, and battery energy storage across campus.",
+                "image": "/uploads/2021/07/Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Multi-source coordination",
+                  "Local generation priority",
+                  "Reduced transmission loss"
+                ]
+              },
+              {
+                "title": "Smart Grid Synchronization",
+                "description": "Advanced phase locked loop (PLL) control for uninterrupted synchronization and transition between grid and island mode.",
+                "image": "/uploads/2021/07/WINWORD_qHynyUjp0s.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Sub-cycle transfer switches",
+                  "Frequency and voltage regulation",
+                  "Power quality correction"
+                ]
+              },
+              {
+                "title": "Automated Power Dispatch",
+                "description": "AI-assisted load forecasting and optimal dispatch algorithms that prioritize green energy over grid power.",
+                "image": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Real-time load balancing",
+                  "Peak shaving strategies",
+                  "Cost optimization"
+                ]
+              },
+              {
+                "title": "Energy Management Systems (EMS)",
+                "description": "Cloud-connected SCADA monitoring and control dashboards providing 24/7 visibility over campus energy flows.",
+                "image": "/uploads/2021/07/Microgrid.jpg",
+                "icon": "Globe",
+                "highlights": [
+                  "Live telemetry dashboard",
+                  "Automated anomaly detection",
+                  "Historic trend analytics"
+                ]
+              }
+            ],
+            "title": "Microgrid Architecture",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "System Features"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 9,
+      "createdAt": "2026-11-15T17:23:45.788Z",
+      "updatedAt": "2026-11-15T17:23:45.788Z"
+    },
+    {
+      "id": "cmwi3sydc000hw5g41e4eb39w",
+      "slug": "energy-storage-conversion-technologies",
+      "title": "Energy Storage & Conversion Technologies",
+      "metaTitle": "Energy Storage & Conversion | Energy Innovation Centre (EIC)",
+      "metaDescription": "Next-generation fast-charging batteries, power inverters, and battery lifecycle diagnostics.",
+      "sections": [
+        {
+          "id": "energy-storage-hero",
+          "data": {
+            "title": "Energy Storage & Conversion",
+            "variant": "subpage-dark",
+            "subtitle": "Advanced Batteries & Power Electronics",
+            "isSubpage": true,
+            "description": "Mitigating renewable intermittency through novel electrode materials and high-efficiency converters.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/EnergyStorage.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "storage-narrative",
+          "data": {
+            "body": [
+              "Energy storage is essential for bridging the gap between intermittent renewable generation and real-time energy demand. When the sun sets or wind slows, stored energy guarantees uncompromised electrical supply.",
+              "Our research focuses on:\n- Developing fast-charging, high-storage, and longer-lasting battery cells using novel anode/cathode materials.\n- Standardizing testing protocols for battery life prediction and accelerated aging analysis.\n- Designing high-efficiency bidirectional inverters and DC-DC converters for smooth power conversion and minimum dissipation."
+            ],
+            "title": "Battery Innovation and Power Electronics",
+            "category": "Storage",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+            "imageAlt": "Energy Storage Integration",
+            "imageBadge": {
+              "value": "Multi-Hour Storage",
+              "label": "BESS Solutions"
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "storage-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Lithium-Ion & Next-Gen Batteries",
+                "description": "Extensive research in high-cycle Lithium Iron Phosphate (LFP) and Nickel Manganese Cobalt (NMC) storage units.",
+                "image": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "High energy density",
+                  "Long cycle life (>4000 cycles)",
+                  "Thermal stability"
+                ]
+              },
+              {
+                "title": "Solar & Storage Power Integration",
+                "description": "Co-locating large-scale battery storage with solar PV installations to provide firm, dispatchable solar capacity.",
+                "image": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Solar ramp smoothing",
+                  "Night-time power delivery",
+                  "Grid ancillary support"
+                ]
+              },
+              {
+                "title": "Power Conversion Systems (PCS)",
+                "description": "Bi-directional inverters and DC-DC converters enabling rapid charging and discharging with over 95% efficiency.",
+                "image": "/uploads/2021/07/WINWORD_ejbZGgLfV1.png",
+                "icon": "Layers",
+                "highlights": [
+                  "Bi-directional power flow",
+                  "Rapid response (<20ms)",
+                  "Low harmonic distortion"
+                ]
+              }
+            ],
+            "title": "Research Initiatives",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Lab Focus"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 10,
+      "createdAt": "2026-11-15T17:23:45.792Z",
+      "updatedAt": "2026-11-15T17:23:45.792Z"
+    },
+    {
+      "id": "cmwi3syde000iw5g43f5fx59y",
+      "slug": "biogas-project",
+      "title": "Biogas Project",
+      "metaTitle": "Biogas Project | Energy Innovation Centre (EIC)",
+      "metaDescription": "Circular campus waste-to-energy plant transforming food and agricultural waste into clean methane.",
+      "sections": [
+        {
+          "id": "biogas-project-hero",
+          "data": {
+            "title": "Biogas Project",
+            "variant": "subpage-dark",
+            "subtitle": "Campus Organic Waste to Clean Energy",
+            "isSubpage": true,
+            "description": "Transforming cafeteria food waste and agricultural biomass into clean green methane fuel.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/scheme_engelsk_lille.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "biogas-narrative",
+          "data": {
+            "body": [
+              "The Biogas Project at Ganpat Vidyanagar is an exemplary circular economy initiative. By utilizing cattle manure (gobar), canteen food waste, and green farm biomass, the anaerobic digestion plant generates high-calorific methane for campus heating, cooking, and auxiliary power generation.",
+              "Key Parameters:\n- Area: 50 Sq. Feet dedicated digestion area\n- Depth: 10 Feet cylindrical digester tank\n- Feedstocks: Gobar, cafeteria waste, and shredded agri-biomass\n- Piping: High-pressure PVC pipeline with gas scrubbing and flow metering\n- Byproduct: Nutrient-rich organic slurry utilized as bio-fertilizer on campus botanical farms."
+            ],
+            "title": "Campus Circular Bioenergy System",
+            "category": "Bioenergy",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/07/WINWORD_ejbZGgLfV1.png",
+            "imageAlt": "Biogas Plant Scheme",
+            "imageBadge": {
+              "value": "Waste to Watts",
+              "label": "Circular Economy"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Feedstock",
+                  "value": "Agri & Food Waste"
+                },
+                {
+                  "label": "Biogas Yield",
+                  "value": "High Methane Purity"
+                },
+                {
+                  "label": "Byproduct",
+                  "value": "Organic Fertilizer"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "biogas-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Anaerobic Digestion Reactor",
+                "description": "Biological decomposition of organic matter in oxygen-free reactors producing high-grade biomethane fuel.",
+                "image": "/uploads/2021/07/1.jpg",
+                "icon": "Globe",
+                "highlights": [
+                  "Continuous stirred-tank reactor",
+                  "Mesophilic temperature control",
+                  "Automated feed monitoring"
+                ]
+              },
+              {
+                "title": "Biogas Purification & Enrichment",
+                "description": "Scrubbing and membrane separation systems to remove CO2 and H2S, upgrading raw biogas to vehicle-grade fuel.",
+                "image": "/uploads/2021/07/1-1.jpg",
+                "icon": "Sparkles",
+                "highlights": [
+                  "95%+ methane concentration",
+                  "Pressurized storage cylinders",
+                  "Clean cooking and heating"
+                ]
+              },
+              {
+                "title": "Comprehensive Waste to Energy Cycle",
+                "description": "Closing the loop on campus waste by converting cafeteria and agricultural leftovers into electricity and bio-slurry.",
+                "image": "/uploads/2021/07/scheme_engelsk_lille.jpg",
+                "icon": "Layers",
+                "highlights": [
+                  "Zero landfill contribution",
+                  "Organic soil enrichment",
+                  "Sustainable campus model"
+                ]
+              }
+            ],
+            "title": "Biogas Plant Features",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Technical Specifications"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 11,
+      "createdAt": "2026-11-15T17:23:45.795Z",
+      "updatedAt": "2026-11-15T17:23:45.795Z"
+    },
+    {
+      "id": "cmwi3sydg000jw5g4y0wn0k2k",
+      "slug": "academic-programs",
+      "title": "Academic Programs",
+      "metaTitle": "Academic Programs | Energy Innovation Centre (EIC)",
+      "metaDescription": "Industry-aligned degree electives, certificates, and PhD programs in green technology.",
+      "sections": [
+        {
+          "id": "academic-programs-hero",
+          "data": {
+            "title": "Academic Programs",
+            "variant": "subpage-dark",
+            "subtitle": "Industry-Aligned Green Energy Education",
+            "isSubpage": true,
+            "description": "Equipping future engineers and professionals with hands-on expertise in EVs, renewables, and microgrids.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/academic1.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "programs-grid",
+          "data": {
+            "items": [
+              {
+                "title": "Certificate Course in Electric Vehicle Technology",
+                "description": "Intensive hands-on training covering electric motors, battery chemistry, BMS, and regenerative drive systems.",
+                "image": "/uploads/2021/05/Computer-Networking-Education.jpg",
+                "icon": "GraduationCap",
+                "highlights": [
+                  "Hands-on EV lab sessions",
+                  "Battery pack assembly",
+                  "Industry certification"
+                ]
+              },
+              {
+                "title": "PG Diploma in Renewable Energy & Microgrids",
+                "description": "Advanced postgraduate diploma covering solar PV plant design, smart inverters, microgrid control, and energy economics.",
+                "image": "/uploads/2021/05/ecdl.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "Grid-tied systems design",
+                  "SCADA & EMS modeling",
+                  "Real-world project capstone"
+                ]
+              },
+              {
+                "title": "Hands-on Hardware Lab Training",
+                "description": "Practical engineering laboratory workshops on modern test equipment, solar simulators, and oscilloscopes.",
+                "image": "/uploads/2021/05/Training1.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Hardware-in-the-loop (HIL)",
+                  "Oscilloscope testing",
+                  "Safety standards compliance"
+                ]
+              },
+              {
+                "title": "Professional Industry Certification",
+                "description": "Executive and professional development short courses tailored for practicing engineers and renewable energy technicians.",
+                "image": "/uploads/2021/05/Training2.jpg",
+                "icon": "Award",
+                "highlights": [
+                  "Weekend executive format",
+                  "Industry recognized credential",
+                  "Placement assistance"
+                ]
+              }
+            ],
+            "title": "Offered Programs & Courses",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Curriculum"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 12,
+      "createdAt": "2026-11-15T17:23:45.797Z",
+      "updatedAt": "2026-11-15T17:23:45.797Z"
+    },
+    {
+      "id": "cmwi3sydl000kw5g4ke86ut8n",
+      "slug": "research",
+      "title": "Research",
+      "metaTitle": "Research | Energy Innovation Centre (EIC)",
+      "metaDescription": "Leading edge R&D in microgrids, EV drivetrains, and clean renewable integration.",
+      "sections": [
+        {
+          "id": "research-hero",
+          "data": {
+            "title": "Research Programs",
+            "variant": "subpage-dark",
+            "subtitle": "Innovating for a Zero-Carbon Tomorrow",
+            "isSubpage": true,
+            "description": "Pioneering state and national research projects in collaboration with government and industry.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/research1.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "research-narrative",
+          "data": {
+            "body": [
+              "GUNI-EIC conducts specialized research and analytical studies to accomplish next-generation clean power requirements. Key research focus areas include Project PRISM with IIT Hyderabad, battery lifetime prediction models, and EV motor optimization."
+            ],
+            "title": "Clean Energy Research Mandate",
+            "category": "R&D Programs",
+            "layout": "centre_intro",
+            "imageUrl": "/uploads/2021/06/Testing1.png",
+            "imageAlt": "Energy Research Laboratory",
+            "imageBadge": {
+              "value": "Applied R&D",
+              "label": "Innovation Labs"
+            },
+            "sidePanel": {
+              "details": [
+                {
+                  "label": "Lab Scale",
+                  "value": "R&D Benchmarks"
+                },
+                {
+                  "label": "Pilot Testing",
+                  "value": "Campus Deployment"
+                },
+                {
+                  "label": "Patents",
+                  "value": "Active Filings"
+                }
+              ]
+            }
+          },
+          "type": "narrative"
+        },
+        {
+          "id": "research-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Battery & EV Cell Characterization",
+                "description": "Precision impedance spectroscopy, cycle life testing, and thermal runaway prevention under extreme ambient conditions.",
+                "image": "/uploads/2021/06/Testing1.png",
+                "icon": "Cpu",
+                "highlights": [
+                  "Electrochemical impedance",
+                  "Accelerated degradation tests",
+                  "High-temperature stability"
+                ]
+              },
+              {
+                "title": "Microgrid Simulation & Dynamic Stability",
+                "description": "Hardware-in-the-loop (HIL) simulation investigating frequency droop, fault-ride-through, and islanding dynamics.",
+                "image": "/uploads/2021/06/Testing2.png",
+                "icon": "Layers",
+                "highlights": [
+                  "Droop control algorithms",
+                  "Fault recovery testing",
+                  "Real-time digital simulation"
+                ]
+              },
+              {
+                "title": "Solar PV & Inverter Reliability",
+                "description": "Comprehensive outdoor reliability monitoring of solar modules, maximum power point tracking (MPPT), and harmonic reduction.",
+                "image": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "MPPT tracking efficiency",
+                  "Inverter efficiency mapping",
+                  "Total harmonic distortion (THD)"
+                ]
+              }
+            ],
+            "title": "Active Research Areas",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Current Grants & Projects"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 13,
+      "createdAt": "2026-11-15T17:23:45.802Z",
+      "updatedAt": "2026-11-15T17:23:45.802Z"
+    },
+    {
+      "id": "cmwi3sydo000lw5g4f5qr9o9g",
+      "slug": "collaborations",
+      "title": "Collaborations",
+      "metaTitle": "Collaborations | Energy Innovation Centre (EIC)",
+      "metaDescription": "Global and national research alliances with CalPoly Pomona, IIT Hyderabad, and NISE.",
+      "sections": [
+        {
+          "id": "collaborations-hero",
+          "data": {
+            "title": "Collaborations",
+            "variant": "subpage-dark",
+            "subtitle": "Global & National Strategic Partnerships",
+            "isSubpage": true,
+            "description": "Partnering with leading universities and research organizations to accelerate clean energy innovations.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/1-1.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "collab-cards",
+          "data": {
+            "items": [
+              {
+                "title": "California State Polytechnic University (CalPoly), Pomona, USA",
+                "description": "Global research exchange, collaborative engineering symposiums, and joint student project supervision in clean energy systems.",
+                "image": "/uploads/2021/05/collaboration.png",
+                "icon": "Globe",
+                "highlights": [
+                  "Faculty exchange programs",
+                  "Joint clean energy publications",
+                  "Global research grants"
+                ]
+              },
+              {
+                "title": "Indian Institute of Technology (IIT) Hyderabad",
+                "description": "Technical research collaboration in advanced battery materials, fast charger topology, and smart grid automation protocols.",
+                "image": "/uploads/2021/05/team-working-together-office.jpg",
+                "icon": "Cpu",
+                "highlights": [
+                  "Advanced battery research",
+                  "EV charging standards",
+                  "Co-mentored doctoral research"
+                ]
+              },
+              {
+                "title": "National Institute of Solar Energy (NISE)",
+                "description": "Strategic collaboration with the apex autonomous institute of Ministry of New and Renewable Energy (MNRE), Government of India.",
+                "image": "/uploads/2021/07/1.jpg",
+                "icon": "Award",
+                "highlights": [
+                  "Solar technology benchmarking",
+                  "National skill mission",
+                  "Accredited testing protocols"
+                ]
+              },
+              {
+                "title": "Industry Technology Partners",
+                "description": "Partnerships with premier technology firms including eInfochips and energy equipment manufacturers for live product prototyping.",
+                "image": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+                "icon": "Zap",
+                "highlights": [
+                  "Product prototyping",
+                  "Industrial internships",
+                  "Direct tech transfer"
+                ]
+              }
+            ],
+            "title": "Strategic Partners",
+            "columns": 4,
+            "cardType": "standard",
+            "subtitle": "Collaborative Alliances"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 14,
+      "createdAt": "2026-11-15T17:23:45.805Z",
+      "updatedAt": "2026-11-15T17:23:45.805Z"
+    },
+    {
+      "id": "page-gallery",
+      "slug": "gallery",
+      "title": "Gallery",
+      "metaTitle": "Gallery | Energy Innovation Centre (EIC)",
+      "metaDescription": "Visual highlights and photos from our clean energy campus, labs, and installations.",
+      "sections": [
+        {
+          "id": "gallery-hero",
+          "data": {
+            "title": "Campus Highlights",
+            "variant": "subpage-dark",
+            "subtitle": "Visual Tour of EIC",
+            "isSubpage": true,
+            "description": "Explore photographs of our campus microgrid, solar installations, and laboratory facilities.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/Microgrid.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "gallery-grid-block",
+          "data": {
+            "title": "EIC Campus Highlights & Facilities",
+            "images": [
+              {
+                "url": "/uploads/2021/06/20210526_172706-scaled-e1623904977960.jpg",
+                "title": "EIC Energy Innovation Laboratory & Testing Facility",
+                "category": "Facilities"
+              },
+              {
+                "url": "/uploads/2021/06/1-scaled.jpg",
+                "title": "Smart Microgrid & Clean Power Infrastructure",
+                "category": "Microgrid"
+              },
+              {
+                "url": "/uploads/2021/06/2-1-scaled.jpg",
+                "title": "Renewable Energy Field Testing & Evaluation",
+                "category": "Renewable Energy"
+              },
+              {
+                "url": "/uploads/2021/07/pexels-pixabay-159397-1536x864-1.jpg",
+                "title": "High-Efficiency Solar Photovoltaic Generation Arrays",
+                "category": "Solar Power"
+              },
+              {
+                "url": "/uploads/2021/07/Microgrid.jpg",
+                "title": "Campus Smart Microgrid Telemetry & Dispatch System",
+                "category": "Microgrid"
+              },
+              {
+                "url": "/uploads/2021/07/1.jpg",
+                "title": "Sustainable Biogas Anaerobic Digestion Plant",
+                "category": "Biogas"
+              },
+              {
+                "url": "/uploads/2021/06/5-scaled.jpg",
+                "title": "Students & Faculty Practical Research Sessions",
+                "category": "Education"
+              },
+              {
+                "url": "/uploads/2021/07/pexels-mike-110844-1536x863-1.jpg",
+                "title": "Wind Power Generation Integration on Campus",
+                "category": "Wind Energy"
+              }
+            ],
+            "categories": [
+              "All",
+              "Microgrid",
+              "Renewable Energy",
+              "Campus",
+              "Leadership"
+            ],
+            "subtitle": "Real photographs from our renewable energy installations, labs, and sustainable campus initiatives."
+          },
+          "type": "gallery"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 15,
+      "createdAt": "2026-11-13T21:38:17.021Z",
+      "updatedAt": "2026-11-15T17:23:45.807Z"
+    },
+    {
+      "id": "cmwi3sydw000nw5g4ej1hls23",
+      "slug": "news",
+      "title": "News",
+      "metaTitle": "News & Updates | Energy Innovation Centre (EIC)",
+      "metaDescription": "Latest announcements, research papers, and event reports from EIC.",
+      "sections": [
+        {
+          "id": "news-hero",
+          "data": {
+            "title": "News & Updates",
+            "variant": "subpage-dark",
+            "subtitle": "Latest from Energy Innovation Centre",
+            "isSubpage": true,
+            "description": "Stay updated on recent milestones, government licensing, and technical workshops.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/academic1.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "news-cards",
+          "data": {
+            "items": [
+              {
+                "title": "Sandesh Ahmedabad Coverage of EIC Inauguration",
+                "description": "Prominent feature in Sandesh Ahmedabad highlighting Ganpat University's establishment of the Energy Innovation Centre to drive clean tech and electric vehicle solutions.",
+                "image": "/uploads/2021/06/Sandesh-Ahmedabad-17-March-2021.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "Sandesh Newspaper",
+                  "Published March 17, 2021",
+                  "State-level coverage"
+                ]
+              },
+              {
+                "title": "Divya Bhaskar Mehsana Feature on Clean Energy Initiatives",
+                "description": "Divya Bhaskar coverage celebrating the pioneering renewable energy roadmap, microgrid investments, and international research synergy at Ganpat University.",
+                "image": "/uploads/2021/06/Divyabhaskar-Mehsana_17_03_2021.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "Divya Bhaskar",
+                  "Published March 17, 2021",
+                  "Regional spotlight"
+                ]
+              },
+              {
+                "title": "Navgujarat Samay Energy Innovation & EV Development Story",
+                "description": "Navgujarat Samay in-depth report on the training programs and research milestones in electric mobility launched by Energy Innovation Centre (EIC).",
+                "image": "/uploads/2021/06/Navgujarat-Samay-Ahmedabad-17-March-2021.jpg",
+                "icon": "BookOpen",
+                "highlights": [
+                  "Navgujarat Samay",
+                  "Published March 17, 2021",
+                  "EV & Clean Energy focus"
+                ]
+              }
+            ],
+            "title": "Recent Announcements",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Press & News"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 16,
+      "createdAt": "2026-11-15T17:23:45.812Z",
+      "updatedAt": "2026-11-15T17:23:45.812Z"
+    },
+    {
+      "id": "cmwi3sydz000ow5g43y9k7rs9",
+      "slug": "contact",
+      "title": "Contact Us",
+      "metaTitle": "Contact Us | Energy Innovation Centre (EIC)",
+      "metaDescription": "Get in touch with the Energy Innovation Centre (EIC) at Ganpat University.",
+      "sections": [
+        {
+          "id": "contact-hero",
+          "data": {
+            "title": "Contact Us",
+            "variant": "subpage-dark",
+            "subtitle": "Reach Out to EIC",
+            "isSubpage": true,
+            "description": "Connect with our research coordinators, administrative secretariat, or plan a campus lab visit.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "contact-main-block",
+          "data": {
+            "title": "Get in Touch",
+            "subtitle": "Reach out to India's Most Recognized Green Innovation Campus"
+          },
+          "type": "contact"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 17,
+      "createdAt": "2026-11-15T17:23:45.815Z",
+      "updatedAt": "2026-11-15T17:23:45.815Z"
+    },
+    {
+      "id": "cmwi3sye1000pw5g4bc0rtd3a",
+      "slug": "help-faqs",
+      "title": "Help & FAQs",
+      "metaTitle": "Help & FAQs | Energy Innovation Centre (EIC)",
+      "metaDescription": "Common questions and detailed answers about Energy Innovation Centre (EIC).",
+      "sections": [
+        {
+          "id": "help-faqs-hero",
+          "data": {
+            "title": "Help & FAQs",
+            "variant": "subpage-dark",
+            "subtitle": "Common Inquiries & Answers",
+            "isSubpage": true,
+            "description": "Find quick answers to common questions about research, admissions, and industry partnerships.",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/07/large_D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "faqs-grid",
+          "data": {
+            "items": [
+              {
+                "icon": "HelpCircle",
+                "title": "What is Energy Innovation Centre (EIC)?",
+                "category": "About EIC",
+                "description": "The EIC brings industry, academia, and innovators together on a shared platform to innovate clean renewable energy, EVs, and autonomous microgrids."
+              },
+              {
+                "icon": "Sun",
+                "title": "What is Renewable Energy?",
+                "category": "Concepts",
+                "description": "Energy collected from resources naturally replenished on a human timescale, such as solar, wind, biomass, and geothermal heat, reducing CO2 emissions to zero."
+              },
+              {
+                "icon": "Network",
+                "title": "What is Microgrid Technology?",
+                "category": "Concepts",
+                "description": "Small-scale groupings of interconnected distributed power generation and storage that can operate both grid-connected or independently in island mode."
+              },
+              {
+                "icon": "Target",
+                "title": "What is the 5-Year Green Campus Goal?",
+                "category": "Roadmap",
+                "description": "Within 5 years, Ganpat University campus aims to become an autonomous microgrid powered 100% by renewable energy sources, with an all-electric fleet."
+              },
+              {
+                "icon": "Users",
+                "title": "Who can collaborate with GUNI EIC?",
+                "category": "Partnerships",
+                "description": "Universities, government agencies, energy corporations, EV manufacturers, and clean-tech startups are invited to collaborate on joint research."
+              },
+              {
+                "icon": "GraduationCap",
+                "title": "How can students enroll in courses?",
+                "category": "Academics",
+                "description": "Students can apply through the Ganpat University academic admissions portal or register directly for 4-week certificate workshops."
+              }
+            ],
+            "title": "Frequently Asked Questions",
+            "columns": 3,
+            "cardType": "standard",
+            "subtitle": "Knowledgebase"
+          },
+          "type": "card_grid"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 18,
+      "createdAt": "2026-11-15T17:23:45.818Z",
+      "updatedAt": "2026-11-15T17:23:45.818Z"
+    },
+    {
+      "id": "cmwi3sye4000qw5g4ry27ti0s",
+      "slug": "team-member-1",
+      "title": "Padmashri Ganpatbhai Patel",
+      "metaTitle": "Padmashri Ganpatbhai Patel | Energy Innovation Centre (EIC)",
+      "metaDescription": "Biography of Padmashri Ganpatbhai Patel, Patron in Chief & President of Ganpat University.",
+      "sections": [
+        {
+          "id": "team-member-1-hero",
+          "data": {
+            "title": "Padmashri Ganpatbhai Patel",
+            "variant": "subpage",
+            "subtitle": "Patron & President \u2014 Ganpat University",
+            "isSubpage": true,
+            "description": "Pioneering sustainable technological innovation and research excellence at Ganpat University Energy Innovation Centre (EIC).",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+            "portrait": "/uploads/2021/05/Shri-Ganpatbhai-Patel2.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "team-member-1-narrative",
+          "data": {
+            "body": [
+              "Padmashri Ganpatbhai Patel (Dada) is an industrialist, philanthropist, and the visionary founder of Ganpat University. His lifelong commitment to social upliftment through education has transformed a rural setting into Ganpat Vidyanagar\u2014a world-class educational hub spanning over 300 acres.",
+              "Under his inspiring mentorship, the Energy Innovation Centre was conceived to establish clean energy self-sufficiency, model international collaborations with CalPoly Pomona, and spearhead green technology development for Gujarat and India."
+            ],
+            "title": "Distinguished Philanthropist & Founder",
+            "category": "Biography"
+          },
+          "type": "narrative"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 19,
+      "createdAt": "2026-11-15T17:23:45.820Z",
+      "updatedAt": "2026-11-15T17:23:45.820Z"
+    },
+    {
+      "id": "cmwi3sye5000rw5g43ditmunk",
+      "slug": "team-member-2",
+      "title": "Dr. Mahendra Sharma",
+      "metaTitle": "Dr. Mahendra Sharma | Energy Innovation Centre (EIC)",
+      "metaDescription": "Biography of Dr. Mahendra Sharma, Pro-Chancellor and Director General of Ganpat University.",
+      "sections": [
+        {
+          "id": "team-member-2-hero",
+          "data": {
+            "title": "Dr. Mahendra Sharma",
+            "variant": "subpage",
+            "subtitle": "Pro-Chancellor \u2014 Ganpat University",
+            "isSubpage": true,
+            "description": "Pioneering sustainable technological innovation and research excellence at Ganpat University Energy Innovation Centre (EIC).",
+            "subpageAlign": "left",
+            "subpageHeight": "compact",
+            "bgImage": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+            "portrait": "/uploads/2021/06/7D3A116611.jpg"
+          },
+          "type": "hero"
+        },
+        {
+          "id": "team-member-2-narrative",
+          "data": {
+            "body": [
+              "Dr. Mahendra Sharma is the Pro-Chancellor and Director General of Ganpat University. With a doctorate in Consumer Behaviour, Dr. Sharma possesses extensive expertise in strategic management, institutional growth, and global academic partnerships.",
+              "He has pioneered industry-aligned programs with IBM, Oracle, and SAP, and has led international agreements with Victoria University (Australia) and Penn State University (USA). Under his leadership, the Energy Innovation Centre is executing high-impact research proposals with MNRE and IIT Hyderabad."
+            ],
+            "title": "Academic Leadership & Strategic Vision",
+            "category": "Biography"
+          },
+          "type": "narrative"
+        }
+      ],
+      "isPublished": true,
+      "isMaintenance": false,
+      "order": 20,
+      "createdAt": "2026-11-15T17:23:45.822Z",
+      "updatedAt": "2026-11-15T17:23:45.822Z"
+    }
+  ],
+  "settings": [
+    {
+      "id": "setting-theme",
+      "key": "theme",
+      "value": "theme-eic-coe",
+      "createdAt": "2026-11-13T21:38:16.925Z",
+      "updatedAt": "2026-11-15T17:23:45.661Z"
+    },
+    {
+      "id": "setting-font",
+      "key": "fontPairing",
+      "value": "pairing-modern-sans",
+      "createdAt": "2026-11-13T21:38:16.930Z",
+      "updatedAt": "2026-11-15T17:23:45.667Z"
+    },
+    {
+      "id": "setting-site-name",
+      "key": "siteName",
+      "value": "EIC",
+      "createdAt": "2026-11-13T21:38:16.935Z",
+      "updatedAt": "2026-11-15T17:23:45.669Z"
+    },
+    {
+      "id": "setting-app-settings",
+      "key": "app_settings",
+      "value": "{\"siteName\": \"EIC\", \"siteDescription\": \"Energy Innovation Centre (EIC) \\u2014 Centre of Excellence at Ganpat University | Energy is Next Generation Of Life\", \"contactEmail\": \"eic@ganpatuniversity.ac.in\", \"defaultMetaTitle\": \"Energy Innovation Centre (EIC) | Ganpat University\", \"defaultMetaDescription\": \"Energy Innovation Centre (EIC) \\u2014 Centre of Excellence at Ganpat University dedicated to renewable energy, electric vehicles, microgrid technology, and clean energy innovations.\", \"logoUrl\": \"/uploads/2021/06/GNU_logo_full1.png\", \"faviconUrl\": \"/favicon.ico\", \"maintenanceMode\": false, \"maintenanceMessage\": \"We are currently undergoing scheduled maintenance. Please check back soon.\", \"sessionTimeout\": \"8h\", \"forceHttps\": true}",
+      "createdAt": "2026-11-13T21:38:16.936Z",
+      "updatedAt": "2026-11-15T17:23:45.671Z"
+    },
+    {
+      "id": "setting-global-header",
+      "key": "global_header",
+      "value": "{\"siteName\": \"EIC\", \"subheading\": \"Energy Innovation Centre \\u2014 Ganpat University\", \"logoUrl\": \"/uploads/2021/06/GNU_logo_full1.png\", \"logoSize\": \"lg\", \"navLinks\": [{\"label\": \"Home\", \"href\": \"/\"}, {\"label\": \"About\", \"href\": \"/about-us\", \"children\": [{\"label\": \"About Centre\", \"href\": \"/about-us\"}, {\"label\": \"Vision & Mission\", \"href\": \"/vision\"}, {\"label\": \"Objectives\", \"href\": \"/objectives\"}, {\"label\": \"Key Features\", \"href\": \"/features\"}, {\"label\": \"Board of Studies\", \"href\": \"/board-of-studies\"}]}, {\"label\": \"Verticals\", \"href\": \"/renewable-energy\", \"children\": [{\"label\": \"Renewable Energy\", \"href\": \"/renewable-energy\"}, {\"label\": \"Electric Vehicles (EVs)\", \"href\": \"/electric-vehicles\"}, {\"label\": \"Microgrid Technology\", \"href\": \"/microgrid-technology\"}, {\"label\": \"Energy Storage & Conversion\", \"href\": \"/energy-storage-conversion-technologies\"}, {\"label\": \"Biogas Project\", \"href\": \"/biogas-project\"}]}, {\"label\": \"Academic Programs\", \"href\": \"/academic-programs\"}, {\"label\": \"Research\", \"href\": \"/research\"}, {\"label\": \"Collaborations\", \"href\": \"/collaborations\"}, {\"label\": \"Gallery\", \"href\": \"/gallery\"}, {\"label\": \"Contact Us\", \"href\": \"/contact\"}], \"ctaLabel\": \"Inquire Now\", \"ctaUrl\": \"/contact\"}",
+      "createdAt": "2026-11-13T21:38:16.938Z",
+      "updatedAt": "2026-11-15T17:23:45.673Z"
+    },
+    {
+      "id": "setting-people-data",
+      "key": "people_data",
+      "value": "{\"categories\": [{\"id\": \"leadership\", \"label\": \"Leadership & Governance\"}, {\"id\": \"board-of-studies\", \"label\": \"Board of Studies\"}, {\"id\": \"advisory\", \"label\": \"Advisory Board & Mentors\"}], \"designations\": [\"Patron in Chief & President\", \"Pro-Chancellor and Director General\", \"BoG Member, Ganpat University\", \"Pro-Vice Chancellor and Executive Registrar\", \"Director, IIT Madras\", \"CEO, Vubiq Networks, Inc., USA\", \"Professor, Stanford University, USA\", \"PMO, Govt. of India\", \"DoT, Govt. of India\", \"Director CED\", \"Advisor, GUJCOST\"], \"people\": [{\"id\": \"person-1\", \"name\": \"Padmashri Ganpatbhai Patel\", \"role\": \"Patron in Chief & President\", \"category\": \"leadership\", \"bio\": \"Padmashri Ganpatbhai Patel (Dada) is the visionary founder and President of Ganpat University. A distinguished industrialist and philanthropist dedicated to social upliftment through education, spearheading world-class innovation and green campus transformations.\", \"image\": \"/uploads/2021/05/Shri-Ganpatbhai-Patel2.jpg\", \"email\": \"info@ganpatuniversity.ac.in\", \"phone\": \"1800 233 12345\", \"order\": 1}, {\"id\": \"person-2\", \"name\": \"Dr. Mahendra Sharma\", \"role\": \"Pro-Chancellor and Director General\", \"category\": \"leadership\", \"bio\": \"Dr. Mahendra Sharma is the Pro-Chancellor and Director General of Ganpat University. An eminent academician with rich strategic leadership across industry-focused programs, international alliances, and leading-edge research initiatives.\", \"image\": \"/uploads/2021/06/Amit-Patel-scaled.jpg\", \"email\": \"info@ganpatuniversity.ac.in\", \"phone\": \"1800 233 12345\", \"order\": 2}, {\"id\": \"person-3\", \"name\": \"Shri Becharbhai Patel\", \"role\": \"BoG Member, Ganpat University\", \"category\": \"board-of-studies\", \"bio\": \"Valued Member of the Board of Governors at Ganpat University, providing strategic governance and direction to university infrastructure and philanthropic initiatives.\", \"image\": \"/uploads/2021/01/1.jpg\", \"order\": 3}, {\"id\": \"person-4\", \"name\": \"Dr. Amit Patel\", \"role\": \"Pro-Vice Chancellor and Executive Registrar\", \"category\": \"leadership\", \"bio\": \"Dr. Amit Patel serves as the Pro-Vice Chancellor and Executive Registrar of Ganpat University, overseeing institutional development, statutory governance, and state-of-the-art academic operations.\", \"image\": \"/uploads/2021/01/2.jpg\", \"order\": 4}, {\"id\": \"person-5\", \"name\": \"Prof. Bhaskar Ramamurthi\", \"role\": \"Director, IIT Madras\", \"category\": \"board-of-studies\", \"bio\": \"Renowned academician, technologist, and former Director of IIT Madras, guiding advanced research and university-industry knowledge transfers.\", \"image\": \"/uploads/2021/01/3.jpg\", \"order\": 5}, {\"id\": \"person-6\", \"name\": \"Mr. John Dilworth\", \"role\": \"CEO, Vubiq Networks, Inc., USA\", \"category\": \"advisory\", \"bio\": \"Silicon Valley technology executive and CEO of Vubiq Networks, advising Ganpat University on high-frequency telecommunications and global innovation ties.\", \"image\": \"/uploads/2021/01/1.jpg\", \"order\": 6}, {\"id\": \"person-7\", \"name\": \"Prof. A Paul Raj\", \"role\": \"Professor, Stanford University, USA\", \"category\": \"advisory\", \"bio\": \"Pioneering inventor of MIMO technology, Professor Emeritus at Stanford University, and Marconi Prize recipient, guiding international research excellence.\", \"image\": \"/uploads/2021/01/2.jpg\", \"order\": 7}, {\"id\": \"person-8\", \"name\": \"Mr. Manhar Yadav\", \"role\": \"PMO, Govt. of India\", \"category\": \"board-of-studies\", \"bio\": \"Senior officer in the Prime Minister's Office, Government of India, advising on national policy alignment, clean energy roadmaps, and digital India missions.\", \"image\": \"/uploads/2021/01/3.jpg\", \"order\": 8}, {\"id\": \"person-9\", \"name\": \"Mr. Kishor Babu\", \"role\": \"DoT, Govt. of India\", \"category\": \"board-of-studies\", \"bio\": \"Distinguished leader at the Department of Telecommunications (DoT), Govt. of India, guiding regulatory frameworks and pilot technology licensing.\", \"image\": \"/uploads/2021/01/1.jpg\", \"order\": 9}, {\"id\": \"person-10\", \"name\": \"Dr. Ram Nath Prasad\", \"role\": \"Director CED\", \"category\": \"board-of-studies\", \"bio\": \"Director at the Centre for Entrepreneurship Development (CED), fostering startup incubation and enterprise incubation in green technologies.\", \"image\": \"/uploads/2021/01/2.jpg\", \"order\": 10}, {\"id\": \"person-11\", \"name\": \"Dr. Narottam Sahoo\", \"role\": \"Advisor, GUJCOST\", \"category\": \"advisory\", \"bio\": \"Advisor and Member Secretary at Gujarat Council on Science and Technology (GUJCOST), guiding state research funding and innovation infrastructure.\", \"image\": \"/uploads/2021/01/3.jpg\", \"order\": 11}]}",
+      "createdAt": "2026-11-13T21:38:16.944Z",
+      "updatedAt": "2026-11-15T17:23:45.679Z"
+    },
+    {
+      "id": "setting-global-footer",
+      "key": "global_footer",
+      "value": "{\"tagline\": \"Energy Innovation Centre (EIC) \\u2014 Centre of Excellence at Ganpat University dedicated to renewable energy, electric vehicles, microgrids, and clean energy innovations.\", \"copyright\": \"\\u00a9 Copyright {year}. Ganpat University \\u2014 EIC. All rights reserved.\", \"logoUrl\": \"/uploads/2021/06/GNU_logo_full1.png\", \"logoSize\": \"sm\", \"columns\": [{\"heading\": \"About Centre\", \"links\": [{\"label\": \"About Us\", \"href\": \"/about-us\"}, {\"label\": \"Vision & Mission\", \"href\": \"/vision\"}, {\"label\": \"Objectives\", \"href\": \"/objectives\"}, {\"label\": \"Key Features\", \"href\": \"/features\"}, {\"label\": \"Board of Studies\", \"href\": \"/board-of-studies\"}]}, {\"heading\": \"Verticals & Focus\", \"links\": [{\"label\": \"Renewable Energy\", \"href\": \"/renewable-energy\"}, {\"label\": \"Electric Vehicles (EV)\", \"href\": \"/electric-vehicles\"}, {\"label\": \"Microgrid Technology\", \"href\": \"/microgrid-technology\"}, {\"label\": \"Energy Storage & Conversion\", \"href\": \"/energy-storage-conversion-technologies\"}, {\"label\": \"Biogas Project\", \"href\": \"/biogas-project\"}]}, {\"heading\": \"Programs & Research\", \"links\": [{\"label\": \"Academic Programs\", \"href\": \"/academic-programs\"}, {\"label\": \"Research Work\", \"href\": \"/research\"}, {\"label\": \"Collaborations\", \"href\": \"/collaborations\"}, {\"label\": \"Gallery\", \"href\": \"/gallery\"}, {\"label\": \"Help & FAQs\", \"href\": \"/help-faqs\"}]}], \"socials\": [{\"platform\": \"facebook\", \"url\": \"https://www.facebook.com/ganpatuni\"}, {\"platform\": \"twitter\", \"url\": \"https://twitter.com/Ganpat_Uni\"}, {\"platform\": \"linkedin\", \"url\": \"https://www.linkedin.com/school/ganpat-university/\"}, {\"platform\": \"youtube\", \"url\": \"https://www.youtube.com/channel/UCSPAqyzjpTPtrQmbU3yFe0A\"}]}",
+      "createdAt": "2026-11-13T21:38:16.940Z",
+      "updatedAt": "2026-11-15T17:23:45.675Z"
+    }
+  ],
+  "media": [
+    {
+      "id": "media-eic-1",
+      "filename": "lightbulb-renewable-energy.jpg",
+      "path": "/uploads/2021/07/lightbulb-renewable-energy.jpg",
+      "url": "/uploads/2021/07/lightbulb-renewable-energy.jpg",
+      "title": "lightbulb renewable energy",
+      "mimeType": "image/jpeg",
+      "size": 143080,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "lightbulb-renewable-energy.jpg",
+      "alt": "lightbulb renewable energy"
+    },
+    {
+      "id": "media-eic-2",
+      "filename": "eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg",
+      "path": "/uploads/2021/07/eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg",
+      "url": "/uploads/2021/07/eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg",
+      "title": "eprs ida 583810 promotion renewable energy sources in eu",
+      "mimeType": "image/jpeg",
+      "size": 147102,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "eprs-ida-583810-promotion-renewable-energy-sources-in-eu.jpg",
+      "alt": "eprs ida 583810 promotion renewable energy sources in eu"
+    },
+    {
+      "id": "media-eic-3",
+      "filename": "unnamed.jpg",
+      "path": "/uploads/2021/07/unnamed.jpg",
+      "url": "/uploads/2021/07/unnamed.jpg",
+      "title": "unnamed",
+      "mimeType": "image/jpeg",
+      "size": 50066,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "unnamed.jpg",
+      "alt": "unnamed"
+    },
+    {
+      "id": "media-eic-4",
+      "filename": "renewable-energy-810x524-1.jpg",
+      "path": "/uploads/2021/07/renewable-energy-810x524-1.jpg",
+      "url": "/uploads/2021/07/renewable-energy-810x524-1.jpg",
+      "title": "renewable energy 810x524 1",
+      "mimeType": "image/jpeg",
+      "size": 99485,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "renewable-energy-810x524-1.jpg",
+      "alt": "renewable energy 810x524 1"
+    },
+    {
+      "id": "media-eic-5",
+      "filename": "Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+      "path": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+      "url": "/uploads/2021/07/Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+      "title": "Global Electric Vehicle Lithium ion Battery Market revenue strategy 2019 scaled",
+      "mimeType": "image/jpeg",
+      "size": 306159,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Global-Electric-Vehicle-Lithium-ion-Battery-Market-revenue-strategy-2019-scaled.jpg",
+      "alt": "Global Electric Vehicle Lithium ion Battery Market revenue strategy 2019 scaled"
+    },
+    {
+      "id": "media-eic-6",
+      "filename": "Microgrid.jpg",
+      "path": "/uploads/2021/07/Microgrid.jpg",
+      "url": "/uploads/2021/07/Microgrid.jpg",
+      "title": "Microgrid",
+      "mimeType": "image/jpeg",
+      "size": 23284,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Microgrid.jpg",
+      "alt": "Microgrid"
+    },
+    {
+      "id": "media-eic-7",
+      "filename": "EnergyStorage.jpg",
+      "path": "/uploads/2021/07/EnergyStorage.jpg",
+      "url": "/uploads/2021/07/EnergyStorage.jpg",
+      "title": "EnergyStorage",
+      "mimeType": "image/jpeg",
+      "size": 57874,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "EnergyStorage.jpg",
+      "alt": "EnergyStorage"
+    },
+    {
+      "id": "media-eic-8",
+      "filename": "scheme_engelsk_lille.jpg",
+      "path": "/uploads/2021/07/scheme_engelsk_lille.jpg",
+      "url": "/uploads/2021/07/scheme_engelsk_lille.jpg",
+      "title": "scheme engelsk lille",
+      "mimeType": "image/jpeg",
+      "size": 2058748,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "scheme_engelsk_lille.jpg",
+      "alt": "scheme engelsk lille"
+    },
+    {
+      "id": "media-eic-9",
+      "filename": "Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+      "path": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+      "url": "/uploads/2021/07/Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+      "title": "Solar and Energy Storage image 1000x500 tcm8 105496",
+      "mimeType": "image/jpeg",
+      "size": 238637,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Solar-and-Energy-Storage-image-1000x500_tcm8-105496.jpg",
+      "alt": "Solar and Energy Storage image 1000x500 tcm8 105496"
+    },
+    {
+      "id": "media-eic-10",
+      "filename": "Shri-Ganpatbhai-Patel2.jpg",
+      "path": "/uploads/2021/05/Shri-Ganpatbhai-Patel2.jpg",
+      "url": "/uploads/2021/05/Shri-Ganpatbhai-Patel2.jpg",
+      "title": "Shri Ganpatbhai Patel2",
+      "mimeType": "image/jpeg",
+      "size": 508543,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Shri-Ganpatbhai-Patel2.jpg",
+      "alt": "Shri Ganpatbhai Patel2"
+    },
+    {
+      "id": "media-eic-11",
+      "filename": "Ganpat-uni.png",
+      "path": "/uploads/2021/05/Ganpat-uni.png",
+      "url": "/uploads/2021/05/Ganpat-uni.png",
+      "title": "Ganpat uni",
+      "mimeType": "image/png",
+      "size": 421633,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Ganpat-uni.png",
+      "alt": "Ganpat uni"
+    },
+    {
+      "id": "media-eic-12",
+      "filename": "7D3A116611.jpg",
+      "path": "/uploads/2021/06/7D3A116611.jpg",
+      "url": "/uploads/2021/06/7D3A116611.jpg",
+      "title": "7D3A116611",
+      "mimeType": "image/jpeg",
+      "size": 970421,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "7D3A116611.jpg",
+      "alt": "7D3A116611"
+    },
+    {
+      "id": "media-eic-13",
+      "filename": "Becharbhai-Patel_1.jpeg",
+      "path": "/uploads/2021/06/Becharbhai-Patel_1.jpeg",
+      "url": "/uploads/2021/06/Becharbhai-Patel_1.jpeg",
+      "title": "Becharbhai Patel 1",
+      "mimeType": "image/jpeg",
+      "size": 114649,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Becharbhai-Patel_1.jpeg",
+      "alt": "Becharbhai Patel 1"
+    },
+    {
+      "id": "media-eic-14",
+      "filename": "Amit-Patel-scaled.jpg",
+      "path": "/uploads/2021/06/Amit-Patel-scaled.jpg",
+      "url": "/uploads/2021/06/Amit-Patel-scaled.jpg",
+      "title": "Amit Patel scaled",
+      "mimeType": "image/jpeg",
+      "size": 307011,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Amit-Patel-scaled.jpg",
+      "alt": "Amit Patel scaled"
+    },
+    {
+      "id": "media-eic-15",
+      "filename": "20210526_172706-scaled-e1623904977960.jpg",
+      "path": "/uploads/2021/06/20210526_172706-scaled-e1623904977960.jpg",
+      "url": "/uploads/2021/06/20210526_172706-scaled-e1623904977960.jpg",
+      "title": "20210526 172706 scaled e1623904977960",
+      "mimeType": "image/jpeg",
+      "size": 316668,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "20210526_172706-scaled-e1623904977960.jpg",
+      "alt": "20210526 172706 scaled e1623904977960"
+    },
+    {
+      "id": "media-eic-16",
+      "filename": "1-scaled.jpg",
+      "path": "/uploads/2021/06/1-scaled.jpg",
+      "url": "/uploads/2021/06/1-scaled.jpg",
+      "title": "1 scaled",
+      "mimeType": "image/jpeg",
+      "size": 304620,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "1-scaled.jpg",
+      "alt": "1 scaled"
+    },
+    {
+      "id": "media-eic-17",
+      "filename": "2-1-scaled.jpg",
+      "path": "/uploads/2021/06/2-1-scaled.jpg",
+      "url": "/uploads/2021/06/2-1-scaled.jpg",
+      "title": "2 1 scaled",
+      "mimeType": "image/jpeg",
+      "size": 252361,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "2-1-scaled.jpg",
+      "alt": "2 1 scaled"
+    },
+    {
+      "id": "media-eic-18",
+      "filename": "pexels-pixabay-159397-1536x864-1.jpg",
+      "path": "/uploads/2021/07/pexels-pixabay-159397-1536x864-1.jpg",
+      "url": "/uploads/2021/07/pexels-pixabay-159397-1536x864-1.jpg",
+      "title": "pexels pixabay 159397 1536x864 1",
+      "mimeType": "image/jpeg",
+      "size": 304332,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "pexels-pixabay-159397-1536x864-1.jpg",
+      "alt": "pexels pixabay 159397 1536x864 1"
+    },
+    {
+      "id": "media-eic-19",
+      "filename": "pexels-mike-110844-1536x863-1.jpg",
+      "path": "/uploads/2021/07/pexels-mike-110844-1536x863-1.jpg",
+      "url": "/uploads/2021/07/pexels-mike-110844-1536x863-1.jpg",
+      "title": "pexels mike 110844 1536x863 1",
+      "mimeType": "image/jpeg",
+      "size": 136559,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "pexels-mike-110844-1536x863-1.jpg",
+      "alt": "pexels mike 110844 1536x863 1"
+    },
+    {
+      "id": "media-eic-20",
+      "filename": "research1.jpg",
+      "path": "/uploads/2021/07/research1.jpg",
+      "url": "/uploads/2021/07/research1.jpg",
+      "title": "research1",
+      "mimeType": "image/jpeg",
+      "size": 132825,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "research1.jpg",
+      "alt": "research1"
+    },
+    {
+      "id": "media-eic-21",
+      "filename": "1.jpg",
+      "path": "/uploads/2021/07/1.jpg",
+      "url": "/uploads/2021/07/1.jpg",
+      "title": "1",
+      "mimeType": "image/jpeg",
+      "size": 81469,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "1.jpg",
+      "alt": "1"
+    },
+    {
+      "id": "media-eic-22",
+      "filename": "1-1.jpg",
+      "path": "/uploads/2021/07/1-1.jpg",
+      "url": "/uploads/2021/07/1-1.jpg",
+      "title": "1 1",
+      "mimeType": "image/jpeg",
+      "size": 93511,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "1-1.jpg",
+      "alt": "1 1"
+    },
+    {
+      "id": "media-eic-23",
+      "filename": "5-scaled.jpg",
+      "path": "/uploads/2021/06/5-scaled.jpg",
+      "url": "/uploads/2021/06/5-scaled.jpg",
+      "title": "5 scaled",
+      "mimeType": "image/jpeg",
+      "size": 303786,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "5-scaled.jpg",
+      "alt": "5 scaled"
+    },
+    {
+      "id": "media-eic-24",
+      "filename": "Sandesh-Ahmedabad-17-March-2021.jpg",
+      "path": "/uploads/2021/06/Sandesh-Ahmedabad-17-March-2021.jpg",
+      "url": "/uploads/2021/06/Sandesh-Ahmedabad-17-March-2021.jpg",
+      "title": "Sandesh Ahmedabad 17 March 2021",
+      "mimeType": "image/jpeg",
+      "size": 166191,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Sandesh-Ahmedabad-17-March-2021.jpg",
+      "alt": "Sandesh Ahmedabad 17 March 2021"
+    },
+    {
+      "id": "media-eic-25",
+      "filename": "Divyabhaskar-Mehsana_17_03_2021.jpg",
+      "path": "/uploads/2021/06/Divyabhaskar-Mehsana_17_03_2021.jpg",
+      "url": "/uploads/2021/06/Divyabhaskar-Mehsana_17_03_2021.jpg",
+      "title": "Divyabhaskar Mehsana 17 03 2021",
+      "mimeType": "image/jpeg",
+      "size": 131329,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Divyabhaskar-Mehsana_17_03_2021.jpg",
+      "alt": "Divyabhaskar Mehsana 17 03 2021"
+    },
+    {
+      "id": "media-eic-26",
+      "filename": "Navgujarat-Samay-Ahmedabad-17-March-2021.jpg",
+      "path": "/uploads/2021/06/Navgujarat-Samay-Ahmedabad-17-March-2021.jpg",
+      "url": "/uploads/2021/06/Navgujarat-Samay-Ahmedabad-17-March-2021.jpg",
+      "title": "Navgujarat Samay Ahmedabad 17 March 2021",
+      "mimeType": "image/jpeg",
+      "size": 84086,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Navgujarat-Samay-Ahmedabad-17-March-2021.jpg",
+      "alt": "Navgujarat Samay Ahmedabad 17 March 2021"
+    },
+    {
+      "id": "media-eic-27",
+      "filename": "Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+      "path": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+      "url": "/uploads/2021/05/Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+      "title": "Campus Front View of Mehsana Urban Institute of Sciences Ganpat University Mehsana Campus View",
+      "mimeType": "image/png",
+      "size": 511562,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Campus-Front-View-of-Mehsana-Urban-Institute-of-Sciences-Ganpat-University-Mehsana_Campus-View.png",
+      "alt": "Campus Front View of Mehsana Urban Institute of Sciences Ganpat University Mehsana Campus View"
+    },
+    {
+      "id": "media-eic-28",
+      "filename": "bigstock-Company-Or-Corporate-Vision-Co-67712395.jpg",
+      "path": "/uploads/2021/07/bigstock-Company-Or-Corporate-Vision-Co-67712395.jpg",
+      "url": "/uploads/2021/07/bigstock-Company-Or-Corporate-Vision-Co-67712395.jpg",
+      "title": "bigstock Company Or Corporate Vision Co 67712395",
+      "mimeType": "image/jpeg",
+      "size": 416522,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "bigstock-Company-Or-Corporate-Vision-Co-67712395.jpg",
+      "alt": "bigstock Company Or Corporate Vision Co 67712395"
+    },
+    {
+      "id": "media-eic-29",
+      "filename": "TBG-Security-Mission-Statement.jpg",
+      "path": "/uploads/2021/07/TBG-Security-Mission-Statement.jpg",
+      "url": "/uploads/2021/07/TBG-Security-Mission-Statement.jpg",
+      "title": "TBG Security Mission Statement",
+      "mimeType": "image/jpeg",
+      "size": 70905,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "TBG-Security-Mission-Statement.jpg",
+      "alt": "TBG Security Mission Statement"
+    },
+    {
+      "id": "media-eic-30",
+      "filename": "WINWORD_Bp0eZ12gG6.jpg",
+      "path": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+      "url": "/uploads/2021/07/WINWORD_Bp0eZ12gG6.jpg",
+      "title": "WINWORD Bp0eZ12gG6",
+      "mimeType": "image/jpeg",
+      "size": 118437,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "WINWORD_Bp0eZ12gG6.jpg",
+      "alt": "WINWORD Bp0eZ12gG6"
+    },
+    {
+      "id": "media-eic-31",
+      "filename": "WINWORD_qHynyUjp0s.jpg",
+      "path": "/uploads/2021/07/WINWORD_qHynyUjp0s.jpg",
+      "url": "/uploads/2021/07/WINWORD_qHynyUjp0s.jpg",
+      "title": "WINWORD qHynyUjp0s",
+      "mimeType": "image/jpeg",
+      "size": 190184,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "WINWORD_qHynyUjp0s.jpg",
+      "alt": "WINWORD qHynyUjp0s"
+    },
+    {
+      "id": "media-eic-32",
+      "filename": "WINWORD_ejbZGgLfV1.png",
+      "path": "/uploads/2021/07/WINWORD_ejbZGgLfV1.png",
+      "url": "/uploads/2021/07/WINWORD_ejbZGgLfV1.png",
+      "title": "WINWORD ejbZGgLfV1",
+      "mimeType": "image/png",
+      "size": 161765,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "WINWORD_ejbZGgLfV1.png",
+      "alt": "WINWORD ejbZGgLfV1"
+    },
+    {
+      "id": "media-eic-33",
+      "filename": "academic1.jpg",
+      "path": "/uploads/2021/07/academic1.jpg",
+      "url": "/uploads/2021/07/academic1.jpg",
+      "title": "academic1",
+      "mimeType": "image/jpeg",
+      "size": 116436,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "academic1.jpg",
+      "alt": "academic1"
+    },
+    {
+      "id": "media-eic-34",
+      "filename": "Computer-Networking-Education.jpg",
+      "path": "/uploads/2021/05/Computer-Networking-Education.jpg",
+      "url": "/uploads/2021/05/Computer-Networking-Education.jpg",
+      "title": "Computer Networking Education",
+      "mimeType": "image/jpeg",
+      "size": 51092,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Computer-Networking-Education.jpg",
+      "alt": "Computer Networking Education"
+    },
+    {
+      "id": "media-eic-35",
+      "filename": "ecdl.jpg",
+      "path": "/uploads/2021/05/ecdl.jpg",
+      "url": "/uploads/2021/05/ecdl.jpg",
+      "title": "ecdl",
+      "mimeType": "image/jpeg",
+      "size": 138994,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "ecdl.jpg",
+      "alt": "ecdl"
+    },
+    {
+      "id": "media-eic-36",
+      "filename": "Training1.jpg",
+      "path": "/uploads/2021/05/Training1.jpg",
+      "url": "/uploads/2021/05/Training1.jpg",
+      "title": "Training1",
+      "mimeType": "image/jpeg",
+      "size": 499183,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Training1.jpg",
+      "alt": "Training1"
+    },
+    {
+      "id": "media-eic-37",
+      "filename": "Training2.jpg",
+      "path": "/uploads/2021/05/Training2.jpg",
+      "url": "/uploads/2021/05/Training2.jpg",
+      "title": "Training2",
+      "mimeType": "image/jpeg",
+      "size": 418241,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Training2.jpg",
+      "alt": "Training2"
+    },
+    {
+      "id": "media-eic-38",
+      "filename": "Testing1.png",
+      "path": "/uploads/2021/06/Testing1.png",
+      "url": "/uploads/2021/06/Testing1.png",
+      "title": "Testing1",
+      "mimeType": "image/png",
+      "size": 691956,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Testing1.png",
+      "alt": "Testing1"
+    },
+    {
+      "id": "media-eic-39",
+      "filename": "Testing2.png",
+      "path": "/uploads/2021/06/Testing2.png",
+      "url": "/uploads/2021/06/Testing2.png",
+      "title": "Testing2",
+      "mimeType": "image/png",
+      "size": 765038,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Testing2.png",
+      "alt": "Testing2"
+    },
+    {
+      "id": "media-eic-40",
+      "filename": "collaboration.png",
+      "path": "/uploads/2021/05/collaboration.png",
+      "url": "/uploads/2021/05/collaboration.png",
+      "title": "collaboration",
+      "mimeType": "image/png",
+      "size": 679763,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "collaboration.png",
+      "alt": "collaboration"
+    },
+    {
+      "id": "media-eic-41",
+      "filename": "team-working-together-office.jpg",
+      "path": "/uploads/2021/05/team-working-together-office.jpg",
+      "url": "/uploads/2021/05/team-working-together-office.jpg",
+      "title": "team working together office",
+      "mimeType": "image/jpeg",
+      "size": 61509,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "team-working-together-office.jpg",
+      "alt": "team working together office"
+    },
+    {
+      "id": "media-eic-42",
+      "filename": "large_D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo.jpg",
+      "path": "/uploads/2021/07/large_D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo.jpg",
+      "url": "/uploads/2021/07/large_D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo.jpg",
+      "title": "large D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo",
+      "mimeType": "image/jpeg",
+      "size": 100168,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "large_D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo.jpg",
+      "alt": "large D4YS7x4LXfv8LzLkeBol0N1XV7wgs6AZlUxCnNzCqbo"
+    },
+    {
+      "id": "media-eic-43",
+      "filename": "Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+      "path": "/uploads/2021/07/Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+      "url": "/uploads/2021/07/Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+      "title": "Image15 SystemIntegrators Energystorage Caban 022119 Hero 1000x715 1",
+      "mimeType": "image/jpeg",
+      "size": 76891,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "Image15_SystemIntegrators_Energystorage_Caban_022119-Hero-1000x715-1.jpg",
+      "alt": "Image15 SystemIntegrators Energystorage Caban 022119 Hero 1000x715 1"
+    },
+    {
+      "id": "media-eic-44",
+      "filename": "ImageForArticle_1094_15905836938893485.png",
+      "path": "/uploads/2021/07/ImageForArticle_1094_15905836938893485.png",
+      "url": "/uploads/2021/07/ImageForArticle_1094_15905836938893485.png",
+      "title": "ImageForArticle 1094 15905836938893485",
+      "mimeType": "image/png",
+      "size": 872999,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "ImageForArticle_1094_15905836938893485.png",
+      "alt": "ImageForArticle 1094 15905836938893485"
+    },
+    {
+      "id": "media-eic-45",
+      "filename": "examples-renewable-energy-wind-solar-biomass-geothermal.jpg",
+      "path": "/uploads/2021/07/examples-renewable-energy-wind-solar-biomass-geothermal.jpg",
+      "url": "/uploads/2021/07/examples-renewable-energy-wind-solar-biomass-geothermal.jpg",
+      "title": "examples renewable energy wind solar biomass geothermal",
+      "mimeType": "image/jpeg",
+      "size": 145223,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "examples-renewable-energy-wind-solar-biomass-geothermal.jpg",
+      "alt": "examples renewable energy wind solar biomass geothermal"
+    },
+    {
+      "id": "media-eic-46",
+      "filename": "GNU_logo_full1.png",
+      "path": "/uploads/2021/06/GNU_logo_full1.png",
+      "url": "/uploads/2021/06/GNU_logo_full1.png",
+      "title": "GNU logo full1",
+      "mimeType": "image/png",
+      "size": 12561,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "GNU_logo_full1.png",
+      "alt": "GNU logo full1"
+    },
+    {
+      "id": "media-eic-47",
+      "filename": "cropped-GNU_logo_icon.png",
+      "path": "/uploads/2021/06/cropped-GNU_logo_icon.png",
+      "url": "/uploads/2021/06/cropped-GNU_logo_icon.png",
+      "title": "cropped GNU logo icon",
+      "mimeType": "image/png",
+      "size": 17998,
+      "createdAt": "2026-11-16T00:00:00.000Z",
+      "originalName": "cropped-GNU_logo_icon.png",
+      "alt": "cropped GNU logo icon"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-1",
+      "username": "admin",
+      "passwordHash": "$2b$12$N5H6EIeVDh9v3/WuUB9y6uDM8qAvZMDH8qhvqp5.YbuqM5KoJ.1iW",
+      "name": "Super Admin",
+      "role": "SUPER_ADMIN",
+      "isActive": true,
+      "createdAt": "2026-11-13T21:38:16.867Z",
+      "updatedAt": "2026-11-15T17:23:45.498Z"
+    }
+  ]
+}

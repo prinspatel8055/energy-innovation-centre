@@ -1,0 +1,14 @@
+# Enforce consistent line endings
+* text=auto eol=lf
+
+# Explicit language tagging for GitHub Linguist (TypeScript project)
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.js linguist-detectable=true
+*.css linguist-detectable=true
+*.json linguist-detectable=false
+*.md linguist-documentation=true
+
+# Mark static assets as vendored
+public/uploads/* linguist-vendored=true
+public/uploads/**/* linguist-vendored=true
